@@ -216,3 +216,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Virtual Environment
+skylex/
+
+# Environment Variables (API Keys - KABHI COMMIT MAT KARNA)
+.env
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Chroma DB local data
+chroma_db/
+
+# Qdrant local data
+qdrant_storage/
+
+# Logs
+logs/
+*.log
+
+# Downloaded regulatory documents (raw data - too large for git)
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
