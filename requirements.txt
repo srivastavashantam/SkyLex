@@ -37,3 +37,6 @@ pydantic-settings>=2.0.0,<3.0.0    # Settings management using Pydantic v2
 
 # HTTP Client
 requests>=2.32.0,<3.0.0            # Standard HTTP requests library
+
+# HTTP Client (async-capable, better than requests)
+httpx>=0.27.0,<1.0.0
