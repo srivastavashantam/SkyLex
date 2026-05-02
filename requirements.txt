@@ -1,0 +1,39 @@
+# =============================================================================
+# SKYLEX — Production Dependencies (May 2026)
+# Fully Compatible & Stable Versions
+# =============================================================================
+
+# Environment & Configuration
+python-dotenv>=1.0.0,<2.0.0        # Environment variables management (.env file support)
+
+# Numerical Computing
+numpy>=2.0.0,<3.0.0                # Core numerical operations and array support
+
+# =============================================================================
+# LangChain Ecosystem (v1.x - Stable)
+# =============================================================================
+langchain>=1.2.0,<2.0.0            # Main LangChain framework for agentic workflows
+langchain-community>=0.4.0,<1.0.0  # Community integrations and third-party tools
+langchain-openai>=1.2.0,<2.0.0     # OpenAI integration (Chat, Embeddings, etc.)
+
+# OpenAI SDK
+openai>=2.26.0,<3.0.0              # Official OpenAI Python client (required by langchain-openai)
+
+# Observability & Monitoring
+langsmith>=0.7.0,<1.0.0            # Tracing, debugging, and monitoring with LangSmith
+
+# Experiment Tracking & ML Lifecycle
+mlflow>=2.20.0,<4.0.0              # MLflow for experiment tracking and model management
+
+# =============================================================================
+# API Layer
+# =============================================================================
+fastapi>=0.110.0,<0.140.0          # FastAPI framework for building high-performance APIs
+uvicorn>=0.30.0,<0.40.0            # ASGI server to run FastAPI applications
+
+# Data Validation & Settings
+pydantic>=2.0.0,<3.0.0             # Data validation using Python type hints
+pydantic-settings>=2.0.0,<3.0.0    # Settings management using Pydantic v2
+
+# HTTP Client
+requests>=2.32.0,<3.0.0            # Standard HTTP requests library
