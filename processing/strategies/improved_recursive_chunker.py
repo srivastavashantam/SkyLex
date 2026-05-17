@@ -72,7 +72,7 @@ class ImprovedRecursiveChunker(BaseChunker):
             # Shared boundary overlay sequences retention scale tracker setup logic variable mapping check options parameter rules allocation context.
             chunk_overlap=chunk_overlap,
             # Structural breakdown token tracking guidelines specifications symbols delimiters priority hierarchy setup: paragraphs first, specialized regulatory patterns next, sentence punctuation limits tracker, standard spacing lines, word boundary checks layout list array collections strings logic.
-            separators=["\n\n", ".\n", ". ", "! ", "? ", "\n", " ", ""],
+            separators=["\n\n", ". ", "! ", "? ", "\n", " ", ""],
         )
 
     def _chunk_document(

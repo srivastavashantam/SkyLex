@@ -69,7 +69,7 @@ class ImprovedHybridChunker(BaseChunker):
             # Sliding continuous segments context preservation overlap indices mapping reference check constraint data indicator scale.
             chunk_overlap=chunk_overlap,
             # Tokens formatting rules parsing constraints breakdown list setup: paragraphs priority first, specialized text termination symbols tracking, strict line limits, and backup space words layout control strings collections map trace.
-            separators=["\n\n", ".\n", ". ", "! ", "? ", "\n", " ", ""],
+            separators=["\n\n", ". ", "! ", "? ", "\n", " ", ""],
         )
 
     def _chunk_document(
