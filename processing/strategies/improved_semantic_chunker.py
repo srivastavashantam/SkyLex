@@ -41,7 +41,7 @@ _HARD_CAP_CHARS: int = 6000
 _FALLBACK_SPLITTER = RecursiveCharacterTextSplitter(
     chunk_size=_HARD_CAP_CHARS,
     chunk_overlap=300,  # 5% of hard cap — context preservation
-    separators=["\n\n", ".\n", ". ", "! ", "? ", "\n", " ", ""],
+    separators=["\n\n", ". ", "! ", "? ", "\n", " ", ""],
 )
 
 
