@@ -1,0 +1,554 @@
+[
+  {
+    "doc_id": "sky-d5b855e045c3",
+    "title": "SKYbrary — Loss of Control",
+    "url": "https://skybrary.aero/articles/loss-control",
+    "total_chars": 1917,
+    "identifiers": {},
+    "bullet_points": [
+      "- Loss of Situational Awareness (especially through Distraction but also through Complacency)",
+      "- Low level wind shear or higher level Clear Air Turbulence (CAT)",
+      "- Structural or multiple power plant damage caused by Bird Strike, exposure to severe Turbulence, or collision with another aircraft",
+      "- Crew incapacitation",
+      "- Icing of the airframe or engines",
+      "- Aerodynamic stall or upset",
+      "- Upset Prevention and Recovery Training (UPRT) — mandatory for commercial operators",
+      "- Automation monitoring and management training",
+      "- Energy state awareness training",
+      "- Standard Operating Procedures (SOPs) compliance",
+      "- Flight Data Monitoring (FDM) programs to identify precursors"
+    ],
+    "full_content": "Loss of Control (LOC)\n\nLoss of control in flight (LOC-I) has been one of the most significant causes of fatal aircraft accidents for many years and is one of five global high-risk categories of occurrence identified by the International Civil Aviation Organization (ICAO).\n\nLoss of control usually occurs because the aircraft enters a flight regime which is outside its normal envelope, usually, but not always at a high rate, thereby introducing an element of surprise for the flight crew involved.\n\nThe causes of in flight Loss of Control, whether transitory or terminal, are many and include:\n- Loss of Situational Awareness (especially through Distraction but also through Complacency)\n- Low level wind shear or higher level Clear Air Turbulence (CAT)\n- Structural or multiple power plant damage caused by Bird Strike, exposure to severe Turbulence, or collision with another aircraft\n- Crew incapacitation\n- Icing of the airframe or engines\n- Aerodynamic stall or upset\n\nIn-flight Loss of Control is the biggest single cause of transport aircraft fatal accidents and hull losses. More attention to recovery from unusual attitudes for larger aircraft operating without a visual horizon reference is also needed, since a significant proportion of airborne loss of control accidents still occur when, if recognition of an abnormal aircraft attitude had been followed promptly by the optimum recovery action, a fatal outcome could still have been avoided.\n\nSafety Barriers and Risk Mitigations:\n- Upset Prevention and Recovery Training (UPRT) — mandatory for commercial operators\n- Automation monitoring and management training\n- Energy state awareness training\n- Standard Operating Procedures (SOPs) compliance\n- Flight Data Monitoring (FDM) programs to identify precursors\n\nReferences: ICAO identifies LOC-I as one of five global high-risk categories. FAA AC 120-109A covers Stall Prevention and Recovery Training."
+  },
+  {
+    "doc_id": "sky-66ea9387bd89",
+    "title": "SKYbrary — Controlled Flight Into Terrain (CFIT)",
+    "url": "https://skybrary.aero/articles/controlled-flight-terrain-cfit",
+    "total_chars": 1890,
+    "identifiers": {},
+    "bullet_points": [
+      "- Loss of situational awareness, particularly in the vertical plane",
+      "- Lack of familiarity with the approach or misreading of the approach plate",
+      "- Step down fixes on Terminal Approach Procedure (TAP) plates not clearly depicted",
+      "- Approaches taking aircraft close to high terrain for noise abatement constraints",
+      "- Failure to use Standard Phraseology leading to confusion",
+      "- Pilot fatigue and disorientation",
+      "- Weather: Rain, turbulence, and icing increasing pilot workload",
+      "- Terrain Awareness and Warning Systems (TAWS/EGPWS)",
+      "- Ground Proximity Warning System (GPWS)",
+      "- Adherence to Standard Operating Procedures (SOPs)",
+      "- Stabilised approach procedures",
+      "- ICAO PANS-OPS approach design standards"
+    ],
+    "full_content": "Controlled Flight Into Terrain (CFIT)\n\nControlled Flight into Terrain (CFIT) occurs when an airworthy aircraft under the complete control of the pilot is inadvertently flown into terrain, water, or an obstacle. The pilots are generally unaware of the danger until it is too late.\n\nMost CFIT accidents occur in the approach and landing phase of flight and are often associated with non-precision approaches. Many CFIT accidents occur because of loss of situational awareness, particularly in the vertical plane, and many crash sites are on the centreline of an approach to an airfield.\n\nCausal Factors:\n- Loss of situational awareness, particularly in the vertical plane\n- Lack of familiarity with the approach or misreading of the approach plate\n- Step down fixes on Terminal Approach Procedure (TAP) plates not clearly depicted\n- Approaches taking aircraft close to high terrain for noise abatement constraints\n- Failure to use Standard Phraseology leading to confusion\n- Pilot fatigue and disorientation\n- Weather: Rain, turbulence, and icing increasing pilot workload\n\nATCO-induced situation: The controller gives an aircraft an intermediate heading towards the ILS centreline during a radar vectored initial approach but is subsequently distracted and fails to issue the intercept heading. When the flight crew, who are unfamiliar with the approach, fail to notice the situation in time, the aircraft flies beyond the centreline and into high terrain.\n\nSafety Barriers:\n- Terrain Awareness and Warning Systems (TAWS/EGPWS)\n- Ground Proximity Warning System (GPWS)\n- Adherence to Standard Operating Procedures (SOPs)\n- Stabilised approach procedures\n- ICAO PANS-OPS approach design standards\n\nAccording to IATA data (2008-2017), CFITs accounted for 6% of all commercial aircraft accidents, categorized as the second-highest fatal accident category after Loss of Control Inflight (LOC-I)."
+  },
+  {
+    "doc_id": "sky-cca6bb0969f0",
+    "title": "SKYbrary — Runway Excursion",
+    "url": "https://skybrary.aero/articles/runway-excursion",
+    "total_chars": 1593,
+    "identifiers": {},
+    "bullet_points": [
+      "- Overrun: Aircraft departs runway at the end",
+      "- Veer-off: Aircraft departs runway laterally",
+      "- Unstabilised approach leading to high speed/long touchdown",
+      "- Threshold crossing height too high and/or touchdown beyond normal zone",
+      "- Aircraft weight exceeding maximum for prevailing conditions",
+      "- Reported wind velocity or runway surface conditions differing from actual",
+      "- Aircraft system malfunction (brakes, spoilers, nose wheel steering)",
+      "- Crosswind — arguably the number-one contributor to unintentional veer-offs",
+      "- Aquaplaning causing loss of directional control",
+      "- Rejected takeoff",
+      "- Flying a stabilised approach — fundamental factor in reducing runway excursions",
+      "- Go-around execution if stabilisation criteria not met",
+      "- Runway Overrun and Awareness and Alerting System (ROAAS)",
+      "- Engineered Materials Arresting System (EMAS)",
+      "- Runway End Safety Area (RESA) maintenance",
+      "- Global Action Plan for the Prevention of Runway Excursions (GAPPRE)"
+    ],
+    "full_content": "Runway Excursion\n\nA runway excursion is an event in which an aircraft veers off or overruns the runway surface during takeoff or landing. Runway excursion is the most frequent accident type in aviation and represents one of the most serious risks in aviation.\n\nAccording to IATA data, approximately 23% of accidents in IATA's global accident database from 2005 through mid-2019 involved runway excursion. The estimated direct cost of runway excursion events in 2019 was more than US$4 billion.\n\nTypes of Runway Excursion:\n- Overrun: Aircraft departs runway at the end\n- Veer-off: Aircraft departs runway laterally\n\nCauses:\n- Unstabilised approach leading to high speed/long touchdown\n- Threshold crossing height too high and/or touchdown beyond normal zone\n- Aircraft weight exceeding maximum for prevailing conditions\n- Reported wind velocity or runway surface conditions differing from actual\n- Aircraft system malfunction (brakes, spoilers, nose wheel steering)\n- Crosswind — arguably the number-one contributor to unintentional veer-offs\n- Aquaplaning causing loss of directional control\n- Rejected takeoff\n\nSafety Barriers and Risk Mitigations:\n- Flying a stabilised approach — fundamental factor in reducing runway excursions\n- Go-around execution if stabilisation criteria not met\n- Runway Overrun and Awareness and Alerting System (ROAAS)\n- Engineered Materials Arresting System (EMAS)\n- Runway End Safety Area (RESA) maintenance\n- Global Action Plan for the Prevention of Runway Excursions (GAPPRE)\n\nReference: AC 91-79B — Aircraft Landing Performance and Runway Excursion Mitigation."
+  },
+  {
+    "doc_id": "sky-434f55a08734",
+    "title": "SKYbrary — Runway Incursion",
+    "url": "https://skybrary.aero/articles/runway-incursion",
+    "total_chars": 1501,
+    "identifiers": {},
+    "bullet_points": [
+      "- Category A: Separation decreases and there is a significant potential for collision",
+      "- Category B: Separation decreases and there is ample time/distance to avoid a collision",
+      "- Category C: Ample time/distance available but a precautionary action is taken",
+      "- Category D: Little or no risk of collision, but meeting ICAO definition",
+      "- Pilot/vehicle operator error — wrong runway entry, misread clearance",
+      "- ATC error — incorrect clearance, failure to monitor",
+      "- Airport design issues — complex taxi routes",
+      "- Low visibility conditions",
+      "- Poor communication and non-standard phraseology",
+      "- Stop bars and runway guard lights",
+      "- Surface Movement Radar",
+      "- Advanced Surface Movement Guidance and Control Systems (A-SMGCS)",
+      "- Standard Phraseology and readbacks",
+      "- Airport design improvements — right-angle runway entrances",
+      "- Runway Status Lights (RWSL)"
+    ],
+    "full_content": "Runway Incursion\n\nICAO defines a Runway Incursion as: \"Any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft.\"\n\nRunway incursions remain one of the most serious safety hazards in aviation. A notable example occurred on 2 January 2024 when an Airbus A350-900 collided with a Bombardier DHC8-300 at Tokyo Haneda. The DHC8 had entered the runway for departure without clearance. Both aircraft caught fire. The DHC8 was destroyed and five of the six occupants died.\n\nCategories of Runway Incursion (ICAO):\n- Category A: Separation decreases and there is a significant potential for collision\n- Category B: Separation decreases and there is ample time/distance to avoid a collision\n- Category C: Ample time/distance available but a precautionary action is taken\n- Category D: Little or no risk of collision, but meeting ICAO definition\n\nCausal Factors:\n- Pilot/vehicle operator error — wrong runway entry, misread clearance\n- ATC error — incorrect clearance, failure to monitor\n- Airport design issues — complex taxi routes\n- Low visibility conditions\n- Poor communication and non-standard phraseology\n\nSafety Barriers:\n- Stop bars and runway guard lights\n- Surface Movement Radar\n- Advanced Surface Movement Guidance and Control Systems (A-SMGCS)\n- Standard Phraseology and readbacks\n- Airport design improvements — right-angle runway entrances\n- Runway Status Lights (RWSL)"
+  },
+  {
+    "doc_id": "sky-c98190cfb55b",
+    "title": "SKYbrary — Low Level Wind Shear",
+    "url": "https://skybrary.aero/articles/low-level-wind-shear",
+    "total_chars": 1594,
+    "identifiers": {},
+    "bullet_points": [
+      "- Sudden changes in airspeed affecting lift and aircraft energy state",
+      "- Risk of stall if airspeed decreases rapidly",
+      "- Risk of runway excursion if airspeed increases suddenly on approach",
+      "- Reduced terrain clearance in departure phase",
+      "- High pilot workload during critical phases of flight",
+      "- Frontal wind shear — associated with weather fronts",
+      "- Thunderstorm wind shear — microbursts and downbursts",
+      "- Temperature inversion wind shear",
+      "- Mountain wave wind shear",
+      "- Wind speed changes of 45 knots or more",
+      "- Extension up to 1 mile horizontally",
+      "- Duration of 5-15 minutes",
+      "- Particularly dangerous during final approach — can cause LOC-I or runway undershoot/excursion",
+      "- Airborne Wind Shear Detection and Warning Systems (reactive and predictive)",
+      "- Pilot Reports (PIREPs)",
+      "- SIGMET and ATIS advisories",
+      "- Low Level Wind Shear Alert System (LLWAS) at airports",
+      "- Weather radar interpretation",
+      "- If wind shear encounter suspected: TOGA thrust, rotate to go-around attitude, do not change configuration",
+      "- Execute escape maneuver immediately upon EGPWS/wind shear warning"
+    ],
+    "full_content": "Low Level Wind Shear\n\nWind shear is defined as a change in wind speed and/or direction over a short distance. Low level wind shear (LLWS) is particularly hazardous to aircraft during approach and departure phases of flight when the aircraft is at low altitude, low speed, and has limited energy reserves.\n\nHazards:\n- Sudden changes in airspeed affecting lift and aircraft energy state\n- Risk of stall if airspeed decreases rapidly\n- Risk of runway excursion if airspeed increases suddenly on approach\n- Reduced terrain clearance in departure phase\n- High pilot workload during critical phases of flight\n\nTypes:\n- Frontal wind shear — associated with weather fronts\n- Thunderstorm wind shear — microbursts and downbursts\n- Temperature inversion wind shear\n- Mountain wave wind shear\n\nMicroburst: A localized column of sinking air producing diverging winds at the surface. Characterized by:\n- Wind speed changes of 45 knots or more\n- Extension up to 1 mile horizontally\n- Duration of 5-15 minutes\n- Particularly dangerous during final approach — can cause LOC-I or runway undershoot/excursion\n\nDetection and Avoidance:\n- Airborne Wind Shear Detection and Warning Systems (reactive and predictive)\n- Pilot Reports (PIREPs)\n- SIGMET and ATIS advisories\n- Low Level Wind Shear Alert System (LLWAS) at airports\n- Weather radar interpretation\n\nPilot Actions:\n- If wind shear encounter suspected: TOGA thrust, rotate to go-around attitude, do not change configuration\n- Execute escape maneuver immediately upon EGPWS/wind shear warning\n- Do not attempt to salvage approach — execute immediate go-around"
+  },
+  {
+    "doc_id": "sky-bdbf1f6e7628",
+    "title": "SKYbrary — Go-Around Decision Making",
+    "url": "https://skybrary.aero/articles/go-around",
+    "total_chars": 1625,
+    "identifiers": {},
+    "bullet_points": [
+      "- Between 3 and 4% of all approaches are reported/recorded as unstabilised",
+      "- Only 3% of unstabilised approaches result in a go-around being flown",
+      "- 97% of unstabilised approaches continue to a landing contrary to airline SOPs",
+      "- Over 60% of go-arounds introduce increased risk",
+      "- This increases to over 70% where pilots had a problem on approach",
+      "- Approach not stabilised at mandatory gate (typically 1000ft IMC / 500ft VMC)",
+      "- Runway not clear for landing",
+      "- Wind shear or microburst encounter",
+      "- TAWS/GPWS/EGPWS warning",
+      "- Visibility below minima",
+      "- ATC instruction",
+      "- At 800ft: Many threats can still allow continued approach with correction",
+      "- At 500ft IMC / 300ft VMC: Must be stabilised — go-around if not",
+      "- Below DA/DH: Pilot mindset shifts to \"landing will be possible\" — high risk of continuing unstabilised approach",
+      "- Many operators include guidance that if either pilot calls for a go-around, it shall be executed immediately without discussion",
+      "- Discussion during critical phase creates distractions and costs time",
+      "- Executing a go-around places aircraft in a new situation — rarely practiced",
+      "- Go-around itself introduces new risks that must be managed"
+    ],
+    "full_content": "Go-Around Decision Making\n\nCentral to effective go-around decision making is a comprehensive knowledge and understanding of situations, threats and circumstances that should, or may, require a go-around to be flown.\n\nKey Statistics:\n- Between 3 and 4% of all approaches are reported/recorded as unstabilised\n- Only 3% of unstabilised approaches result in a go-around being flown\n- 97% of unstabilised approaches continue to a landing contrary to airline SOPs\n- Over 60% of go-arounds introduce increased risk\n- This increases to over 70% where pilots had a problem on approach\n\nSituations Requiring Go-Around:\n- Approach not stabilised at mandatory gate (typically 1000ft IMC / 500ft VMC)\n- Runway not clear for landing\n- Wind shear or microburst encounter\n- TAWS/GPWS/EGPWS warning\n- Visibility below minima\n- ATC instruction\n\nDecision Making Profile:\n- At 800ft: Many threats can still allow continued approach with correction\n- At 500ft IMC / 300ft VMC: Must be stabilised — go-around if not\n- Below DA/DH: Pilot mindset shifts to \"landing will be possible\" — high risk of continuing unstabilised approach\n\nCritical Points:\n- Many operators include guidance that if either pilot calls for a go-around, it shall be executed immediately without discussion\n- Discussion during critical phase creates distractions and costs time\n- Executing a go-around places aircraft in a new situation — rarely practiced\n- Go-around itself introduces new risks that must be managed\n\nKey Principle: The decision to go-around should be automatic when criteria are not met — not subject to debate or pressure from schedule/fuel considerations."
+  },
+  {
+    "doc_id": "sky-2a3446827ff9",
+    "title": "SKYbrary — Stabilised Approach",
+    "url": "https://skybrary.aero/articles/stabilised-approach",
+    "total_chars": 1579,
+    "identifiers": {},
+    "bullet_points": [
+      "- 1000ft above TDZE in IMC (Instrument Meteorological Conditions)",
+      "- 500ft above TDZE in VMC (Visual Meteorological Conditions)",
+      "- Some operators use higher gates as \"should\" gates",
+      "- Aircraft on correct flight path",
+      "- Only small changes required to maintain correct flight path",
+      "- Target airspeed maintained (not more than Vref + applicable additive)",
+      "- Aircraft in correct landing configuration",
+      "- Sink rate no greater than 1000 ft/min",
+      "- Power setting appropriate for aircraft configuration",
+      "- All briefings and checklists completed",
+      "- Aircraft arriving at runway threshold too high, too fast",
+      "- Out of alignment with runway centreline",
+      "- Incorrectly configured for landing",
+      "- Aircraft damage on touchdown, or runway excursion"
+    ],
+    "full_content": "Stabilised Approach\n\nA stabilised approach is a fundamental factor in reducing the occurrence of both hard landings and runway excursions.\n\nDefinition:\nWithin their Operations Manual, most airlines define the criteria for a stabilised approach and mandate that the approach must be abandoned and a go-around executed if the stabilised criteria have not been achieved by a specified height above the touchdown zone elevation (TDZE).\n\nStandard Gates:\n- 1000ft above TDZE in IMC (Instrument Meteorological Conditions)\n- 500ft above TDZE in VMC (Visual Meteorological Conditions)\n- Some operators use higher gates as \"should\" gates\n\nStabilised Approach Criteria (typical):\n- Aircraft on correct flight path\n- Only small changes required to maintain correct flight path\n- Target airspeed maintained (not more than Vref + applicable additive)\n- Aircraft in correct landing configuration\n- Sink rate no greater than 1000 ft/min\n- Power setting appropriate for aircraft configuration\n- All briefings and checklists completed\n\nContinuation of unstabilised approach may result in:\n- Aircraft arriving at runway threshold too high, too fast\n- Out of alignment with runway centreline\n- Incorrectly configured for landing\n- Aircraft damage on touchdown, or runway excursion\n\nLate change of runway and commercial pressure to maintain schedule are common factors leading to continued unstabilised approaches.\n\nKey Safety Enhancement: Flight Data Monitoring (FDM) programs tracking stabilised approach compliance have been shown to significantly improve safety culture and reduce excursion risk."
+  },
+  {
+    "doc_id": "sky-ba4c2b6d3dc4",
+    "title": "SKYbrary — Fatigue",
+    "url": "https://skybrary.aero/articles/fatigue",
+    "total_chars": 1454,
+    "identifiers": {
+      "part_refs": [
+        "Part 117"
+      ],
+      "car_refs": [
+        "CAR Section 7"
+      ]
+    },
+    "bullet_points": [
+      "- Physical fatigue: Inability to exert force with muscles to expected degree",
+      "- Mental fatigue: General decrease of attention and ability to perform tasks",
+      "- Cumulative fatigue: Build-up over time from insufficient recovery between duty periods",
+      "- Loss or interruption of normal sleep pattern",
+      "- Shift patterns and transit across time zones (circadian rhythm disruption)",
+      "- Long duty periods — particularly challenging for ultra-long-range (ULR) operations",
+      "- Short rest periods between duty periods",
+      "- High workload operations",
+      "- Decreased alertness and reaction time",
+      "- Impaired decision making",
+      "- Reduced situational awareness",
+      "- Difficulty with complex tasks",
+      "- Communication failures",
+      "- DGCA FDTL CAR Section 7 Series J Part III (India — revised Jan 2024)",
+      "- EU OPS Subpart Q (Europe)",
+      "- FAR Part 117 (USA)",
+      "- Data-driven system collecting crew alertness information",
+      "- Proactive and reactive interventions for FTL scheme implementation",
+      "- Can be standalone or integrated with Safety Management System (SMS)",
+      "- Particularly important for Air India ultra-long-range routes (DEL-JFK, DEL-SFO)"
+    ],
+    "full_content": "Fatigue\n\nFatigue in aviation is recognized as a significant safety hazard. Mental fatigue concerns a general decrease of attention and ability to perform complex tasks with customary efficiency.\n\nTypes:\n- Physical fatigue: Inability to exert force with muscles to expected degree\n- Mental fatigue: General decrease of attention and ability to perform tasks\n- Cumulative fatigue: Build-up over time from insufficient recovery between duty periods\n\nCauses Relevant to Aviation:\n- Loss or interruption of normal sleep pattern\n- Shift patterns and transit across time zones (circadian rhythm disruption)\n- Long duty periods — particularly challenging for ultra-long-range (ULR) operations\n- Short rest periods between duty periods\n- High workload operations\n\nEffects on Performance:\n- Decreased alertness and reaction time\n- Impaired decision making\n- Reduced situational awareness\n- Difficulty with complex tasks\n- Communication failures\n\nFlight Duty Time Limitations (FDTL):\nRegulatory frameworks limit fatigue risk:\n- DGCA FDTL CAR Section 7 Series J Part III (India — revised Jan 2024)\n- EU OPS Subpart Q (Europe)\n- FAR Part 117 (USA)\n\nFatigue Risk Management System (FRMS):\n- Data-driven system collecting crew alertness information\n- Proactive and reactive interventions for FTL scheme implementation\n- Can be standalone or integrated with Safety Management System (SMS)\n- Particularly important for Air India ultra-long-range routes (DEL-JFK, DEL-SFO)"
+  },
+  {
+    "doc_id": "sky-d943a2a0a798",
+    "title": "SKYbrary — Crew Resource Management (CRM)",
+    "url": "https://skybrary.aero/articles/crew-resource-management-crm",
+    "total_chars": 1514,
+    "identifiers": {
+      "part_refs": [
+        "Part 121"
+      ]
+    },
+    "bullet_points": [
+      "- Communications",
+      "- Situational Awareness",
+      "- Problem solving",
+      "- Decision making",
+      "- Teamwork",
+      "- Team building and maintenance",
+      "- Information transfer",
+      "- Problem solving and decision making",
+      "- Maintaining situational awareness",
+      "- Dealing with automated systems",
+      "- Threat and Error Management (TEM)",
+      "- Poor technical knowledge",
+      "- Cultural differences",
+      "- Fatigue",
+      "- Bad attitudes"
+    ],
+    "full_content": "Crew Resource Management (CRM)\n\nCRM can be defined as a management system which makes optimum use of all available resources — equipment, procedures and people — to promote safety and enhance the efficiency of flight operations.\n\nCRM encompasses a wide range of knowledge, skills and attitudes including:\n- Communications\n- Situational Awareness\n- Problem solving\n- Decision making\n- Teamwork\n\nHistory:\nThe concept of CRM originated in the 1970s and was initially known as \"cockpit resource management.\" As CRM training evolved to include flight attendants, maintenance personnel and others, the phrase \"crew resource management\" was adopted.\n\nHuman error is the cause of approximately 80% of aviation accidents — CRM is a critical defense.\n\nCRM Training Elements:\n- Team building and maintenance\n- Information transfer\n- Problem solving and decision making\n- Maintaining situational awareness\n- Dealing with automated systems\n- Threat and Error Management (TEM)\n\nPoor resource management can be caused by:\n- Poor technical knowledge\n- Cultural differences\n- Fatigue\n- Bad attitudes\n\nKey Principle: Inadequate communications between crew members and other parties could lead to a loss of situational awareness, a breakdown in teamwork, and ultimately to a wrong decision or series of decisions resulting in a serious incident or accident.\n\nRegulatory Reference: FAA AC 120-51E — Crew Resource Management Training (mandatory for Part 121 operators). DGCA also mandates CRM training for scheduled operators in India."
+  },
+  {
+    "doc_id": "sky-06767597f894",
+    "title": "SKYbrary — Situational Awareness",
+    "url": "https://skybrary.aero/articles/situational-awareness",
+    "total_chars": 1302,
+    "identifiers": {
+      "numbered_heads": [
+        "1. Level 1 — Perception: Detection of relevant elements (what is happening?)",
+        "2. Level 2 — Comprehension: Understanding meaning of perceived elements (what does i",
+        "3. Level 3 — Projection: Predicting future states (what will happen?)"
+      ]
+    },
+    "bullet_points": [
+      "- CFIT (Controlled Flight Into Terrain)",
+      "- Loss of Control",
+      "- Runway Incursions",
+      "- Level Busts",
+      "- Mid-Air Collisions",
+      "- Distraction — the most common cause",
+      "- High workload",
+      "- Complacency and automation over-reliance",
+      "- Poor communication",
+      "- Ambiguous information",
+      "- Task fixation",
+      "- Recognize that SA has been lost",
+      "- Stop and assess the situation",
+      "- Use all available resources (crew, ATC, systems)",
+      "- Do not guess — verify"
+    ],
+    "full_content": "Situational Awareness\n\nSituational Awareness (SA) is one of the key elements of Crew Resource Management (CRM). It is formally defined as: \"The perception of the elements in the environment within a volume of time and space, the comprehension of their meaning, and the projection of their status in the near future.\"\n\nThree Levels of Situational Awareness (Endsley Model):\n1. Level 1 — Perception: Detection of relevant elements (what is happening?)\n2. Level 2 — Comprehension: Understanding meaning of perceived elements (what does it mean?)\n3. Level 3 — Projection: Predicting future states (what will happen?)\n\nLoss of Situational Awareness is a precursor to:\n- CFIT (Controlled Flight Into Terrain)\n- Loss of Control\n- Runway Incursions\n- Level Busts\n- Mid-Air Collisions\n\nThreats to Situational Awareness:\n- Distraction — the most common cause\n- High workload\n- Complacency and automation over-reliance\n- Poor communication\n- Ambiguous information\n- Task fixation\n\nRecovery from Loss of SA:\n- Recognize that SA has been lost\n- Stop and assess the situation\n- Use all available resources (crew, ATC, systems)\n- Do not guess — verify\n\nSRM (Single-Pilot Resource Management) extends SA concepts to single-pilot operations including CFIT awareness, automation management, and accurate risk assessment."
+  },
+  {
+    "doc_id": "sky-9b0bd0dea6ab",
+    "title": "SKYbrary — Threat and Error Management (TEM)",
+    "url": "https://skybrary.aero/articles/threat-and-error-management-tem",
+    "total_chars": 1395,
+    "identifiers": {
+      "numbered_heads": [
+        "1. Threats (external to crew) — weather, ATC instructions, aircraft malfunctions",
+        "2. Errors (made by crew) — procedural errors, communication errors",
+        "3. Undesired Aircraft States — aircraft in wrong configuration, wrong position",
+        "4. Accident/Incident (if defenses fail)"
+      ]
+    },
+    "bullet_points": [
+      "- Threats: Events or errors that occur outside the influence of the flight crew, that increase operational complexity and must be managed",
+      "- Errors: Actions or inactions that lead to deviations from organizational or flight crew intentions or expectations",
+      "- Undesired States: Operational conditions where an unintended situation results in a reduction in safety margins",
+      "- Anticipate threats before they occur (pre-flight briefing)",
+      "- Recognize threats when they occur",
+      "- Respond to threats appropriately",
+      "- Trap errors before they become undesired states",
+      "- Manage errors to prevent them from becoming undesired aircraft states",
+      "- Cross-checking, callouts, and SOPs are primary defenses",
+      "- Line Operations Safety Audits (LOSA)",
+      "- Cabin crew safety programs",
+      "- ATC training programs",
+      "- Safety investigations"
+    ],
+    "full_content": "Threat and Error Management (TEM)\n\nThreat and Error Management (TEM) is a conceptual framework that assists in understanding the interaction between safety and human performance in dynamic operational environments.\n\nKey Concepts:\n- Threats: Events or errors that occur outside the influence of the flight crew, that increase operational complexity and must be managed\n- Errors: Actions or inactions that lead to deviations from organizational or flight crew intentions or expectations\n- Undesired States: Operational conditions where an unintended situation results in a reduction in safety margins\n\nTEM Model Layers:\n1. Threats (external to crew) — weather, ATC instructions, aircraft malfunctions\n2. Errors (made by crew) — procedural errors, communication errors\n3. Undesired Aircraft States — aircraft in wrong configuration, wrong position\n4. Accident/Incident (if defenses fail)\n\nThreat Management Strategies:\n- Anticipate threats before they occur (pre-flight briefing)\n- Recognize threats when they occur\n- Respond to threats appropriately\n\nError Management:\n- Trap errors before they become undesired states\n- Manage errors to prevent them from becoming undesired aircraft states\n- Cross-checking, callouts, and SOPs are primary defenses\n\nTEM is used as a framework for:\n- Line Operations Safety Audits (LOSA)\n- Cabin crew safety programs\n- ATC training programs\n- Safety investigations"
+  },
+  {
+    "doc_id": "sky-493df911dd43",
+    "title": "SKYbrary — Safety Management System (SMS)",
+    "url": "https://skybrary.aero/articles/safety-management-system",
+    "total_chars": 1462,
+    "identifiers": {
+      "car_refs": [
+        "CAR Section 5"
+      ],
+      "numbered_heads": [
+        "1. Safety Policy and Objectives",
+        "2. Safety Risk Management",
+        "3. Safety Assurance",
+        "4. Safety Promotion"
+      ]
+    },
+    "bullet_points": [
+      "- Management commitment and responsibility",
+      "- Safety accountabilities",
+      "- Appointment of key safety personnel",
+      "- SMS documentation",
+      "- Hazard identification",
+      "- Safety risk assessment and mitigation",
+      "- Safety requirements for operational procedures and training",
+      "- Safety performance monitoring and measurement",
+      "- Internal safety investigation",
+      "- Safety audits and surveys",
+      "- Management of change",
+      "- Training and education",
+      "- Safety communication",
+      "- DGCA CAR Section 5 Series A Part I — Safety Management System (India)",
+      "- FAA AC 120-92B — Safety Management Systems for Aviation Service Providers",
+      "- ICAO Annex 19 — Safety Management (2013)"
+    ],
+    "full_content": "Safety Management System (SMS)\n\nA Safety Management System (SMS) is a systematic approach to managing safety, including the necessary organizational structures, accountabilities, policies and procedures.\n\nICAO requires all airlines, airports, and ANSPs to implement SMS under Annex 19.\n\nFour Components of SMS (ICAO Framework):\n1. Safety Policy and Objectives\n   - Management commitment and responsibility\n   - Safety accountabilities\n   - Appointment of key safety personnel\n   - SMS documentation\n\n2. Safety Risk Management\n   - Hazard identification\n   - Safety risk assessment and mitigation\n   - Safety requirements for operational procedures and training\n\n3. Safety Assurance\n   - Safety performance monitoring and measurement\n   - Internal safety investigation\n   - Safety audits and surveys\n   - Management of change\n\n4. Safety Promotion\n   - Training and education\n   - Safety communication\n\n12 Key Elements within these four components.\n\nIntegration with FRMS:\nThe Fatigue Risk Management System (FRMS) can be established as a standalone system or as part of the Safety Management System.\n\nRegulatory References:\n- DGCA CAR Section 5 Series A Part I — Safety Management System (India)\n- FAA AC 120-92B — Safety Management Systems for Aviation Service Providers\n- ICAO Annex 19 — Safety Management (2013)\n\nFor Air India: DGCA mandates SMS implementation. The SMS must address all operations including crew scheduling, maintenance, and ground operations."
+  },
+  {
+    "doc_id": "sky-81fd0d261b1b",
+    "title": "SKYbrary — Airborne Collision Avoidance System (ACAS/TCAS)",
+    "url": "https://skybrary.aero/articles/airborne-collision-avoidance-system-acas",
+    "total_chars": 1629,
+    "identifiers": {},
+    "bullet_points": [
+      "- Traffic Advisory (TA): Increases pilot awareness of potential threat",
+      "- Resolution Advisory (RA): Provides specific vertical maneuver guidance"
+    ],
+    "full_content": "Airborne Collision Avoidance System (ACAS/TCAS)\n\nACAS II (Traffic alert and Collision Avoidance System — TCAS II) is an aircraft safety net designed to reduce the risk of mid-air collisions between aircraft.\n\nHow it Works:\nTCAS II interrogates the Mode C and Mode S transponders of nearby aircraft ('intruders') and from the replies tracks their altitude, range, and bearing. It issues alerts to pilots:\n- Traffic Advisory (TA): Increases pilot awareness of potential threat\n- Resolution Advisory (RA): Provides specific vertical maneuver guidance\n\nCritical Rule — Always Follow the RA:\nThe most important TCAS lesson: Follow the RA immediately and exactly. Do not follow ATC instructions that conflict with an RA until clear of conflict is announced.\n\n\"Near collision over Yaizu\" (January 31, 2001): Remains a key case study on the importance of following TCAS RAs.\n\nCrossing RAs:\nCrossing RAs require that the level/altitude of the threat aircraft is crossed. They are issued when TCAS computes that sufficient vertical separation would not otherwise be achieved.\n\nTCAS During Emergency Descent:\nDuring emergency descent, TCAS remains in TA/RA mode unless specifically switched to TA-only. Maintain TCAS in normal operating mode during emergency descents to ensure separation from other aircraft.\n\nPilot Compliance with RAs:\nIATA and EUROCONTROL guidance on assessment of pilot compliance using Flight Data Monitoring (FDM). High non-compliance rates with TCAS RAs remain a concern in some regions.\n\nRegulatory Requirement: TCAS II is mandatory for aircraft above certain weight thresholds operating in most airspace worldwide."
+  },
+  {
+    "doc_id": "sky-f65be7821ad1",
+    "title": "SKYbrary — Fire, Smoke and Fumes",
+    "url": "https://skybrary.aero/articles/fire-smoke-fumes",
+    "total_chars": 1443,
+    "identifiers": {},
+    "bullet_points": [
+      "- Engine fire",
+      "- APU fire",
+      "- Cargo compartment fire",
+      "- Cabin fire",
+      "- Flight deck smoke/fumes",
+      "- Electrical fire",
+      "- Lavatory fire",
+      "- Flight crew should IMMEDIATELY don oxygen masks",
+      "- Without supplemental oxygen at cruise altitude, Time of Useful Consciousness can be less than one minute in event of explosive/rapid depressurisation",
+      "- Initiate emergency descent if required — memory item in most aircraft types",
+      "- One pilot flies the aircraft while other handles emergency checklists",
+      "- Use QRH (Quick Reference Handbook) after completing memory items",
+      "- Declare emergency with ATC — request immediate priority handling",
+      "- Consider diversion to nearest suitable airport",
+      "- All 379 occupants evacuated the A350 at Tokyo Haneda prior to its complete destruction by fire",
+      "- Evacuation must begin immediately upon coming to a complete stop",
+      "- Flight crew manages evacuation per procedures"
+    ],
+    "full_content": "Fire, Smoke and Fumes\n\nIn-flight fire is one of the most serious emergencies that can confront a flight crew. SKYbrary identifies in-flight fire as one of the main safety hazards in aviation.\n\nTypes of In-Flight Fire/Smoke:\n- Engine fire\n- APU fire\n- Cargo compartment fire\n- Cabin fire\n- Flight deck smoke/fumes\n- Electrical fire\n- Lavatory fire\n\nImmediate Actions:\nAt the first indication of smoke or fumes or a pressurisation problem or symptoms of hypoxia:\n- Flight crew should IMMEDIATELY don oxygen masks\n- Without supplemental oxygen at cruise altitude, Time of Useful Consciousness can be less than one minute in event of explosive/rapid depressurisation\n- Initiate emergency descent if required — memory item in most aircraft types\n\nCrew Coordination:\n- One pilot flies the aircraft while other handles emergency checklists\n- Use QRH (Quick Reference Handbook) after completing memory items\n- Declare emergency with ATC — request immediate priority handling\n- Consider diversion to nearest suitable airport\n\nPost-Evacuation Considerations:\n- All 379 occupants evacuated the A350 at Tokyo Haneda prior to its complete destruction by fire\n- Evacuation must begin immediately upon coming to a complete stop\n- Flight crew manages evacuation per procedures\n\nKey Safety Principle: Contaminated air from pressurisation systems (\"aerotoxic syndrome\") is also a concern requiring crew awareness of symptoms and appropriate response procedures."
+  },
+  {
+    "doc_id": "sky-2976464b5eca",
+    "title": "SKYbrary — Aircraft Pressurisation Systems",
+    "url": "https://skybrary.aero/articles/aircraft-pressurisation-systems",
+    "total_chars": 1579,
+    "identifiers": {},
+    "bullet_points": [
+      "- Commercial transport aircraft maintain cabin altitude typically between 6,000-8,000 feet",
+      "- Boeing 787 Dreamliner uses composite fuselage allowing lower cabin altitude of ~6,000 feet",
+      "- Pressurisation managed by outflow valve controlling rate of air leaving cabin",
+      "- Differential pressure limit must not be exceeded",
+      "- Outflow valve malfunction",
+      "- Structural failure (window, door seal)",
+      "- Environmental Control System (ECS) failure",
+      "- Combat damage",
+      "- At first indication of automatic pressurisation system failure: refer to non-normal procedure",
+      "- Don oxygen masks immediately",
+      "- Emergency descent to 10,000 feet or MEA (Minimum En-route Altitude) if higher",
+      "- Declare emergency with ATC",
+      "- FL250: 3-5 minutes",
+      "- FL300: 1-2 minutes",
+      "- FL350: 30-60 seconds",
+      "- FL400: 15-20 seconds"
+    ],
+    "full_content": "Aircraft Pressurisation Systems\n\nAircraft pressurisation maintains a safe cabin altitude for crew and passengers when flying at high altitude where atmospheric pressure is insufficient to sustain life.\n\nNormal Operations:\n- Commercial transport aircraft maintain cabin altitude typically between 6,000-8,000 feet\n- Boeing 787 Dreamliner uses composite fuselage allowing lower cabin altitude of ~6,000 feet\n- Pressurisation managed by outflow valve controlling rate of air leaving cabin\n- Differential pressure limit must not be exceeded\n\nLoss of Pressurisation:\nCauses include:\n- Outflow valve malfunction\n- Structural failure (window, door seal)\n- Environmental Control System (ECS) failure\n- Combat damage\n\nEmergency Response:\n- At first indication of automatic pressurisation system failure: refer to non-normal procedure\n- Don oxygen masks immediately\n- Emergency descent to 10,000 feet or MEA (Minimum En-route Altitude) if higher\n- Declare emergency with ATC\n\nTime of Useful Consciousness (TUC):\n- FL250: 3-5 minutes\n- FL300: 1-2 minutes\n- FL350: 30-60 seconds\n- FL400: 15-20 seconds\n\nCase Study: On 17 November 2021, shortly after commencing initial descent from FL350, a cautionary alert indicating automatic pressurisation system failure was annunciated. The crew opened the outflow valve fully — an incorrect action. The captain temporarily lost consciousness after a delay in donning his oxygen mask. Result: Comprehensive failure to follow emergency procedures.\n\nKey Learning: Don oxygen masks BEFORE attempting diagnosis or troubleshooting of pressurisation failure."
+  },
+  {
+    "doc_id": "sky-281873ee8b88",
+    "title": "SKYbrary — Bird Strike",
+    "url": "https://skybrary.aero/articles/bird-strike",
+    "total_chars": 1630,
+    "identifiers": {
+      "part_refs": [
+        "Part 33"
+      ]
+    },
+    "bullet_points": [
+      "- Bird strikes can cause engine damage, windshield damage, or other structural damage",
+      "- Engine ingestion can cause engine failure or reduced thrust",
+      "- Windshield penetration can incapacitate crew",
+      "- Damage to flight control surfaces",
+      "- Low altitude flight (takeoff and landing phases) — highest risk period",
+      "- Airport environments near water bodies, food sources, or bird habitats",
+      "- Dawn and dusk migration periods",
+      "- Spring and autumn migration seasons",
+      "- Airports near bird habitats (rivers, wetlands, open fields)",
+      "- Engine failure during critical phases of flight",
+      "- Loss of power affecting performance calculations",
+      "- Structural damage requiring diversion",
+      "- Crew incapacitation from windshield penetration",
+      "- Airport wildlife management programs",
+      "- Bird dispersal techniques (falconry, noise cannons, habitat management)",
+      "- Bird strike reporting to DGCA mandatory in India",
+      "- Aircraft certification requirements for bird ingestion (FAR Part 33 — engine certification)",
+      "- Pilot reporting of bird activity — PIREPs"
+    ],
+    "full_content": "Bird Strike\n\nBird strike is defined as a collision between an airborne animal (typically a bird) and a manufactured vehicle, especially aircraft.\n\nImpact on Aviation Safety:\n- Bird strikes can cause engine damage, windshield damage, or other structural damage\n- Engine ingestion can cause engine failure or reduced thrust\n- Windshield penetration can incapacitate crew\n- Damage to flight control surfaces\n\nRisk Factors:\n- Low altitude flight (takeoff and landing phases) — highest risk period\n- Airport environments near water bodies, food sources, or bird habitats\n- Dawn and dusk migration periods\n- Spring and autumn migration seasons\n- Airports near bird habitats (rivers, wetlands, open fields)\n\nHigh-Risk Airports for Bird Strikes in India:\nMany Indian airports are located near water bodies and agricultural areas, increasing bird strike risk. Monitoring and mitigation programs are critical.\n\nConsequences:\n- Engine failure during critical phases of flight\n- Loss of power affecting performance calculations\n- Structural damage requiring diversion\n- Crew incapacitation from windshield penetration\n\nMitigation:\n- Airport wildlife management programs\n- Bird dispersal techniques (falconry, noise cannons, habitat management)\n- Bird strike reporting to DGCA mandatory in India\n- Aircraft certification requirements for bird ingestion (FAR Part 33 — engine certification)\n- Pilot reporting of bird activity — PIREPs\n\nEngine Takeoff Case: Engine failure during takeoff due to bird ingestion requires application of Engine Failure During Takeoff procedures — one of the most critical emergency scenarios in commercial aviation."
+  },
+  {
+    "doc_id": "sky-7fb22bb63008",
+    "title": "SKYbrary — Fuel Management",
+    "url": "https://skybrary.aero/articles/fuel-management",
+    "total_chars": 1654,
+    "identifiers": {},
+    "bullet_points": [
+      "- Trip fuel: Fuel required for planned route",
+      "- Contingency fuel: Typically 5% of trip fuel (EU OPS) or calculated per operator",
+      "- Alternate fuel: Fuel to fly to alternate airport",
+      "- Final reserve fuel: 30 minutes at holding speed for jets",
+      "- Additional fuel: As determined by commander",
+      "- Extra fuel: At commander's discretion",
+      "- Minimum Fuel: Fuel state requiring priority handling but not yet declaring emergency",
+      "- Mayday Fuel/Emergency Fuel: Fuel state where emergency must be declared",
+      "- Bingo Fuel: Military term — minimum fuel to return to base",
+      "- Dispatch under MEL with higher fuel burn (systems inoperative)",
+      "- Fuel leak in flight",
+      "- Extended holds due to ATC, weather, or airport congestion",
+      "- Diversion to alternate requiring more fuel than planned",
+      "- Regularly compare actual fuel on board with flight plan fuel",
+      "- Calculate fuel burn per sector leg",
+      "- Assess fuel state against minimum required at destination",
+      "- Declare minimum fuel or emergency fuel early — not after reaching critical state"
+    ],
+    "full_content": "Fuel Management\n\nProper fuel management is fundamental to flight safety. Running out of fuel or reaching minimum fuel state at a critical time has been a causal factor in numerous accidents.\n\nFuel Planning Requirements (standard components):\n- Trip fuel: Fuel required for planned route\n- Contingency fuel: Typically 5% of trip fuel (EU OPS) or calculated per operator\n- Alternate fuel: Fuel to fly to alternate airport\n- Final reserve fuel: 30 minutes at holding speed for jets\n- Additional fuel: As determined by commander\n- Extra fuel: At commander's discretion\n\nKey Definitions:\n- Minimum Fuel: Fuel state requiring priority handling but not yet declaring emergency\n- Mayday Fuel/Emergency Fuel: Fuel state where emergency must be declared\n- Bingo Fuel: Military term — minimum fuel to return to base\n\nAbnormal Operations — Fuel Considerations:\n- Dispatch under MEL with higher fuel burn (systems inoperative)\n- Fuel leak in flight\n- Extended holds due to ATC, weather, or airport congestion\n- Diversion to alternate requiring more fuel than planned\n\nIn-flight Fuel Management:\n- Regularly compare actual fuel on board with flight plan fuel\n- Calculate fuel burn per sector leg\n- Assess fuel state against minimum required at destination\n- Declare minimum fuel or emergency fuel early — not after reaching critical state\n\nCase Study from SKYbrary Highlights: Fuel management during abnormal operations includes dispatch under MEL (Minimum Equipment List) where some systems may affect fuel burn rates — flight crew must account for these when calculating fuel state.\n\nRegulatory: DGCA and ICAO specify minimum fuel requirements for Indian operations."
+  },
+  {
+    "doc_id": "sky-1cdf236cdff2",
+    "title": "SKYbrary — Engine Failure During Takeoff",
+    "url": "https://skybrary.aero/articles/engine-failure-during-takeoff-roll",
+    "total_chars": 1583,
+    "identifiers": {},
+    "bullet_points": [
+      "- V1 is the maximum speed at which a rejected takeoff can be initiated and the aircraft stopped within the remaining runway",
+      "- Above V1: Takeoff must be continued even with engine failure",
+      "- Below V1: Rejected Takeoff (RTO) should be initiated",
+      "- Apply full power on remaining engine(s)",
+      "- Maintain directional control",
+      "- Climb at V2 (engine-out takeoff safety speed)",
+      "- Follow engine-out departure procedure",
+      "- Contact ATC immediately",
+      "- Maximum braking application",
+      "- Deploy speed brakes/spoilers automatically or manually",
+      "- Apply maximum reverse thrust on operating engines",
+      "- Maintain directional control",
+      "- Airport Emergency Services alerted automatically or by ATC",
+      "- Three-engine operation on Boeing 777 or four-engine operation on Boeing 747 provides much more margin than twin-engine aircraft",
+      "- Twin-engine aircraft (787-8, 787-9, A350) certification requires demonstrated engine-out performance to specific regulatory standards",
+      "- Simulator training for engine failures at V1 is required for all commercial pilots",
+      "- Line Oriented Flight Training (LOFT) includes engine failure scenarios",
+      "- DGCA requires demonstration of engine-out procedures for type rating and recurrency"
+    ],
+    "full_content": "Engine Failure During Takeoff\n\nEngine failure during the takeoff roll is one of the most critical and time-pressured emergencies in commercial aviation. The flight crew must make a critical decision: Continue the takeoff (V1 decision) or Reject the Takeoff (RTO).\n\nV1 — Takeoff Decision Speed:\n- V1 is the maximum speed at which a rejected takeoff can be initiated and the aircraft stopped within the remaining runway\n- Above V1: Takeoff must be continued even with engine failure\n- Below V1: Rejected Takeoff (RTO) should be initiated\n\nContinued Takeoff After Engine Failure:\n- Apply full power on remaining engine(s)\n- Maintain directional control\n- Climb at V2 (engine-out takeoff safety speed)\n- Follow engine-out departure procedure\n- Contact ATC immediately\n\nRejected Takeoff (RTO):\n- Maximum braking application\n- Deploy speed brakes/spoilers automatically or manually\n- Apply maximum reverse thrust on operating engines\n- Maintain directional control\n- Airport Emergency Services alerted automatically or by ATC\n\nMulti-Engine Considerations:\n- Three-engine operation on Boeing 777 or four-engine operation on Boeing 747 provides much more margin than twin-engine aircraft\n- Twin-engine aircraft (787-8, 787-9, A350) certification requires demonstrated engine-out performance to specific regulatory standards\n\nTraining Requirements:\n- Simulator training for engine failures at V1 is required for all commercial pilots\n- Line Oriented Flight Training (LOFT) includes engine failure scenarios\n- DGCA requires demonstration of engine-out procedures for type rating and recurrency"
+  },
+  {
+    "doc_id": "sky-96c52a0faa8e",
+    "title": "SKYbrary — Upset Prevention and Recovery Training (UPRT)",
+    "url": "https://skybrary.aero/articles/upset-prevention-and-recovery-training-uprt",
+    "total_chars": 1590,
+    "identifiers": {
+      "numbered_heads": [
+        "1. Ground school training on aerodynamics, human factors, and LOC-I statistics",
+        "2. Simulator training in full-motion simulators",
+        "3. Aeroplane-based training for initial exposure (some regulatory frameworks)"
+      ]
+    },
+    "bullet_points": [
+      "- Pitch attitude greater than 25° nose up",
+      "- Pitch attitude greater than 10° nose down",
+      "- Bank angle greater than 45°",
+      "- Flight within the above parameters at speeds inappropriate for conditions",
+      "- FAA AC 120-109A mandates Stall Prevention and Recovery Training",
+      "- ICAO Amendment No. 3 to PANS-TRG Doc 9868 Chapter 7 — UPRT",
+      "- EASA mandates UPRT for commercial pilots",
+      "- DGCA follows ICAO requirements for Indian operators",
+      "- Recognize and confirm the unusual attitude",
+      "- Reduce angle of attack if stalled",
+      "- Roll to nearest horizon",
+      "- Recover to normal flight",
+      "- Pulling back when above horizon (aggravates stall)",
+      "- Failing to recognize stall at altitude with full automation",
+      "- Not reducing thrust in nose-high upset",
+      "- Counter-intuitive reactions to spatial disorientation"
+    ],
+    "full_content": "Upset Prevention and Recovery Training (UPRT)\n\nUPRT stands for Upset Prevention and Recovery Training. An airplane upset is generally defined as an unintended condition where the aircraft attitude or speed is outside parameters normally experienced in line operations.\n\nUpset Parameters (typical definition):\n- Pitch attitude greater than 25° nose up\n- Pitch attitude greater than 10° nose down\n- Bank angle greater than 45°\n- Flight within the above parameters at speeds inappropriate for conditions\n\nWhy UPRT is Critical:\nLoss of control in flight (LOC-I) remains the leading cause of fatal accidents in commercial aviation. Many LOC-I accidents could have been prevented with proper upset recognition and recovery technique.\n\nTraining Requirements:\n- FAA AC 120-109A mandates Stall Prevention and Recovery Training\n- ICAO Amendment No. 3 to PANS-TRG Doc 9868 Chapter 7 — UPRT\n- EASA mandates UPRT for commercial pilots\n- DGCA follows ICAO requirements for Indian operators\n\nComponents of UPRT:\n1. Ground school training on aerodynamics, human factors, and LOC-I statistics\n2. Simulator training in full-motion simulators\n3. Aeroplane-based training for initial exposure (some regulatory frameworks)\n\nTechniques:\n- Recognize and confirm the unusual attitude\n- Reduce angle of attack if stalled\n- Roll to nearest horizon\n- Recover to normal flight\n\nCommon Errors during Upsets:\n- Pulling back when above horizon (aggravates stall)\n- Failing to recognize stall at altitude with full automation\n- Not reducing thrust in nose-high upset\n- Counter-intuitive reactions to spatial disorientation"
+  },
+  {
+    "doc_id": "sky-fe966cb6b396",
+    "title": "SKYbrary — Emergency Descent",
+    "url": "https://skybrary.aero/articles/emergency-descent-guidance-flight-crews",
+    "total_chars": 1723,
+    "identifiers": {
+      "numbered_heads": [
+        "1. Oxygen masks — don immediately (memory item)",
+        "2. Declare emergency with ATC — \"MAYDAY, MAYDAY, MAYDAY, [callsign], emergency desce",
+        "3. Set transponder 7700",
+        "4. Begin descent — typically at MMo/VMo and maximum authorized thrust reduction",
+        "5. Target 10,000 feet (or MEA if higher)",
+        "6. Brief cabin crew — seatbelt signs on",
+        "7. Complete QRH checklist"
+      ]
+    },
+    "bullet_points": [
+      "- Loss of pressurisation requiring descent to breathable altitude (typically 10,000 feet)",
+      "- Smoke or fumes requiring lower altitude",
+      "- Medical emergency requiring lower altitude for patient welfare",
+      "- Engine fire requiring lower altitude",
+      "- Explosive decompression: Less than 30 seconds TUC",
+      "- Rapid decompression: Less than 1 minute TUC",
+      "- Gradual decompression: Several minutes TUC",
+      "- ATC will clear airspace as rapidly as possible",
+      "- In high-traffic density environments, advise ATC of descent rate and planned level-off altitude"
+    ],
+    "full_content": "Emergency Descent\n\nAn emergency descent is a maneuver performed to descend as rapidly as possible to a lower altitude, usually due to cabin pressurisation failure, fire, or medical emergency requiring lower altitude.\n\nWhen to Initiate Emergency Descent:\n- Loss of pressurisation requiring descent to breathable altitude (typically 10,000 feet)\n- Smoke or fumes requiring lower altitude\n- Medical emergency requiring lower altitude for patient welfare\n- Engine fire requiring lower altitude\n\nTime of Useful Consciousness at Altitude:\nCrew must act before incapacitation. At cruise altitude (FL370-FL410):\n- Explosive decompression: Less than 30 seconds TUC\n- Rapid decompression: Less than 1 minute TUC\n- Gradual decompression: Several minutes TUC\n\nStandard Procedure:\n1. Oxygen masks — don immediately (memory item)\n2. Declare emergency with ATC — \"MAYDAY, MAYDAY, MAYDAY, [callsign], emergency descent\"\n3. Set transponder 7700\n4. Begin descent — typically at MMo/VMo and maximum authorized thrust reduction\n5. Target 10,000 feet (or MEA if higher)\n6. Brief cabin crew — seatbelt signs on\n7. Complete QRH checklist\n\nCrew Responsibilities:\nMany operators direct that the captain conducts any required emergency descent. However, the first officer must also be able to effectively complete an emergency descent in event of captain incapacitation or absence.\n\nTCAS During Emergency Descent:\nMaintain TCAS in TA/RA mode during emergency descent. Coordinate with ATC regarding other traffic. Some operators direct switching to TA-only mode — follow company SOPs.\n\nATC Coordination:\n- ATC will clear airspace as rapidly as possible\n- In high-traffic density environments, advise ATC of descent rate and planned level-off altitude"
+  }
+]

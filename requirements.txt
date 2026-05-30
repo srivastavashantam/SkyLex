@@ -39,13 +39,33 @@ pydantic-settings>=2.0.0,<3.0.0    # Settings management using Pydantic v2
 requests>=2.32.0,<3.0.0            # Standard HTTP requests library
 
 # HTTP Client (async-capable, better than requests)
-httpx>=0.27.0,<1.0.0
+httpx>=0.27.0,<1.0.0               # Async HTTP client for high-concurrency API orchestration
 
 # Progress bar for ingestion loops
-tqdm>=4.66.0,<5.0.0
+tqdm>=4.66.0,<5.0.0                # Console progress bars for tracking parsing loops
 
 # PDF text extraction
-pdfplumber>=0.11.0,<1.0.0
+pdfplumber>=0.11.0,<1.0.0          # High-precision PDF text and structural table extraction
 
 # HTML scraping
-beautifulsoup4>=4.12.0,<5.0.0
+beautifulsoup4>=4.12.0,<5.0.0      # HTML/XML parsing for SkyBrary web scraping pipelines
+
+# Experimental LangChain features (SemanticChunker etc.)
+langchain-experimental>=0.4.0,<1.0.0  # Semantic chunking and embedding-bound splitters
+
+# Data visualization — chunk size distribution plots for MLflow artifacts
+matplotlib>=3.9.0,<4.0.0           # Histogram plots for chunking experiment artifacts
+
+# Retry logic with exponential backoff + jitter for OpenAI API rate limits
+tenacity>=9.0.0,<10.0.0             # Production-grade retry for embedding/LLM calls
+
+# =============================================================================
+# Vector Databases & Retrieval Lifecycle (v2 Additions)
+# =============================================================================
+chromadb==0.6.3                    # Local persistent vector database for testing
+sentence-transformers==3.4.1       # Local embeddings computation and encoding models
+ragas==0.2.14                      # Evaluation framework for RAG pipeline validation
+datasets==3.5.1                    # Hugging Face datasets container for RAG evaluation sets
+qdrant-client==1.14.2              # Production-grade vector store client for remote cluster indexing
+rank-bm25==0.2.2                   # Traditional lexical search scoring function for hybrid retrieval
+FlagEmbedding==1.3.4               # BGE reranking models interface for search reranking optimization

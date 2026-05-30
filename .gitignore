@@ -251,3 +251,9 @@ __pycache__/
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
+
+#project overview text file
+skylex.docx
+
+# .gitignore mein add karo
+Add-Content .gitignore "`n# Lock files`n.~lock.*`n`n# CSV runs`nruns*.csv`n`n# Docx temp`n*.docx`n`nSKYLEX_STATE_phase1to2.md"
