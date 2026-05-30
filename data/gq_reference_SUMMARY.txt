@@ -1,0 +1,351 @@
+================================================================================
+SKYLEX CORPUS REFERENCE SUMMARY — For Golden Query Writing
+================================================================================
+
+────────────────────────────────────────────────────────────
+FAA_CFR — 226 documents
+────────────────────────────────────────────────────────────
+Priority docs (Part 91/121/117/etc): 21
+
+TOP PRIORITY DOCS:
+  [cfr-7d5ded31] 14 CFR Part 121 — PART 121—OPERATING REQUIREMENTS: DOMESTIC, FLAG, AND SUPPLEMEN
+    Sections: § 121.1, § 119.1, § 121.455, § 121.2, § 121.157, § 121.189, § 121.305, § 121.4
+    First section: PART 121—OPERATING REQUIREMENTS: DOMESTIC, FLAG, AND SUPPLEMENTAL OPERATIONS
+    Content: PART 121—OPERATING REQUIREMENTS: DOMESTIC, FLAG, AND SUPPLEMENTAL OPERATIONS Authority: 49 U.S.C. 106(f), 40103, 40113, 40119, 41706, 42301 preceding note added by Pub. L. 112-95, sec. 412, 126 Stat. 89, 44101, 44701-44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 44729, 44732; 46105; Pub. L. 
+  [cfr-8deb48bd] 14 CFR Part 91 — PART 91—GENERAL OPERATING AND FLIGHT RULES
+    Sections: § 91.139, § 91.1, § 91.701, § 91.101, § 91.151, § 91.167, § 91.203, § 91.205
+    First section: PART 91—GENERAL OPERATING AND FLIGHT RULES
+    Content: PART 91—GENERAL OPERATING AND FLIGHT RULES Authority: 49 U.S.C. 106(f), 40101, 40103, 40105, 40113, 40120, 44101, 44111, 44701, 44704, 44709, 44711, 44712, 44715,44716, 44717, 44722, 44740, 46306, 46315, 46316, 46504, 46506-46507, 47122, 47508,47528-47531, 47534; Pub. L. 112-95, 126 Stat. 11; Pub. L
+  [cfr-8ebb5f5b] 14 CFR Part 135 — PART 135—OPERATING REQUIREMENTS: COMMUTER AND ON DEMAND OPERAT
+    Sections: § 135.1, § 119.1, § 120.31, § 91.147, § 135.601, § 135.2, § 121.157, § 121.189
+    First section: PART 135—OPERATING REQUIREMENTS: COMMUTER AND ON DEMAND OPERATIONS AND RULES GOVERNING PERSONS ON BO
+    Content: PART 135—OPERATING REQUIREMENTS: COMMUTER AND ON DEMAND OPERATIONS AND RULES GOVERNING PERSONS ON BOARD SUCH AIRCRAFT Authority: 49 U.S.C. 106(f), 40113, 41706, 44701-44702, 44705, 44709, 44711-44713, 44715-44717, 44722, 44730, 45101-45105; Pub. L. 112-95, 126 Stat. 58 (49 U.S.C. 44730). Source: Doc
+  [cfr-0f83d0d6] 14 CFR Part 399 — PART 399—STATEMENTS OF GENERAL POLICY
+    Sections: § 399.1, § 399.2, § 399.3, § 399.4, § 399.5, § 399.10, § 399.12, § 399.13
+    First section: PART 399—STATEMENTS OF GENERAL POLICY
+    Content: PART 399—STATEMENTS OF GENERAL POLICY Authority: 49 U.S.C. 40113(a), 41712, 46106, 46107, and 42305. Source: PS-21, 29 FR 1446, Jan. 29, 1964, unless otherwise noted. Editorial Note: Nomenclature changes to part 399 appear at 84 FR 15947, Apr. 16, 2019. Subpart A—Applicability and Effects of Policy 
+  [cfr-21c4cca8] 14 CFR Part 119 — PART 119—CERTIFICATION: AIR CARRIERS AND COMMERCIAL OPERATORS
+    Sections: § 119.1, § 91.501, § 91.147, § 136.37, § 91.321, § 119.3, § 119.5, § 119.21
+    First section: PART 119—CERTIFICATION: AIR CARRIERS AND COMMERCIAL OPERATORS
+    Content: PART 119—CERTIFICATION: AIR CARRIERS AND COMMERCIAL OPERATORS Authority: 49 U.S.C. 106(f), 40101, 40102, 40103, 40113, 44105, 44106, 44111, 44701-44717, 44722, 44901, 44903, 44904, 44906, 44912, 44914, 44936, 44938, 46103, 46105; sec. 215, Pub. L. 111-216, 124 Stat. 2348. Source: Docket 28154, 60 FR
+  [cfr-cc8e13c8] 14 CFR Part 43 — PART 43—MAINTENANCE, PREVENTIVE MAINTENANCE, REBUILDING, AND AL
+    Sections: § 43.1, § 21.191, § 21.190, § 107.140, § 43.10, § 43.5, § 43.2, § 43.3
+    First section: PART 43—MAINTENANCE, PREVENTIVE MAINTENANCE, REBUILDING, AND ALTERATION
+    Content: PART 43—MAINTENANCE, PREVENTIVE MAINTENANCE, REBUILDING, AND ALTERATION Authority: 42 U.S.C. 7572; 49 U.S.C. 106(f), 40105, 40113, 44701-44702, 44704, 44707, 44709, 44711, 44713, 44715, 45303. Source: Docket No. 1993, 29 FR 5451, Apr. 23, 1964, unless otherwise noted. Editorial Note: For miscellaneo
+  [cfr-ae3df7bf] 14 CFR Part 1212 — PART 1212—PRIVACY ACT—NASA REGULATIONS
+    Sections: § 1212.100, § 1212.101, § 1212.203, § 1212.200, § 1212.201, § 1212.202, § 1212.4, § 1212.204
+    First section: PART 1212—PRIVACY ACT—NASA REGULATIONS
+    Content: PART 1212—PRIVACY ACT—NASA REGULATIONS Authority: 51 U.S.C. 20101 et seq.; 5 U.S.C. 552a; Pub. L. 115-59, 131 Stat. 1152 (42 U.S.C. 405 note). Source: 57 FR 4928, Feb. 11, 1992, unless otherwise noted. Subpart 1212.1—Basic Policy
+  [cfr-ebc2bc4a] 14 CFR Part 145 — PART 145—REPAIR STATIONS
+    Sections: § 145.1, § 145.3, § 145.5, § 145.12, § 145.51, § 145.207, § 145.211, § 145.103
+    First section: PART 145—REPAIR STATIONS
+    Content: PART 145—REPAIR STATIONS Authority: 49 U.S.C. 106(f), 40113, 44701-44702, 44707, 44709, 44717. Subpart A—General Source: Docket FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, unless otherwise noted.
+  [cfr-628411fe] 14 CFR Part 1214 — PART 1214—SPACE FLIGHT
+    Sections: § 1214.400, § 1214.401, § 1214.402, § 1214.403, § 1214.404, § 1214.600, § 1214.601, § 1214.602
+    First section: PART 1214—SPACE FLIGHT
+    Content: PART 1214—SPACE FLIGHT Authority: Pub. L. 111-314, sec. 3, 124 Stat. 3328 (51 U.S.C. 20101, et seq. ). Source: 57 FR 4545, Feb. 6, 1992, unless otherwise noted. Subparts 1214.1-1214.3 [Reserved] Subpart 1214.4—International Space Station Crew Authority: Pub. L. 111-314, sec. 3, 124 Stat. 3328 (51 U.
+  [cfr-b1bf4cfb] 14 CFR Part 1216 — PART 1216—ENVIRONMENTAL QUALITY
+    Sections: § 1216.100, § 1216.101, § 1216.102, § 1216.103, § 1216.300, § 1216.301, § 1216.302, § 1216.303
+    First section: PART 1216—ENVIRONMENTAL QUALITY
+    Content: PART 1216—ENVIRONMENTAL QUALITY Authority: 51 U.S.C. 20101 et seq.; 42 U.S.C. 4321 et seq.; 42 U.S.C. 4371 et seq.; 42 U.S.C. 7609; 40 CFR parts 1500 through 1508. Subpart 1216.1—Policy on Environmental Quality and Control Authority: The National Aeronautics and Space Act of 1958, as amended (42 U.S
+  [cfr-046af492] 14 CFR Part 117 — PART 117—FLIGHT AND DUTY LIMITATIONS AND REST REQUIREMENTS: FL
+    Sections: § 117.1, § 117.3, § 1.1, § 117.25, § 117.5, § 117.7, § 117.9, § 117.11
+    First section: PART 117—FLIGHT AND DUTY LIMITATIONS AND REST REQUIREMENTS: FLIGHTCREW MEMBERS
+    Content: PART 117—FLIGHT AND DUTY LIMITATIONS AND REST REQUIREMENTS: FLIGHTCREW MEMBERS Authority: 49 U.S.C. 106(g), 40113, 40119, 44101, 44701-44702, 44705, 44709-44711, 44713, 44716-44717, 44722, 46901, 44903-44904, 44912, 46105. Source: Docket FAA-2009-1093, 77 FR 398, Jan. 4, 2012, unless otherwise noted
+  [cfr-4a0041ed] 14 CFR Part 437 — PART 437—EXPERIMENTAL PERMITS
+    Sections: § 437.1, § 437.3, § 437.5, § 437.7, § 437.9, § 437.11, § 437.13, § 437.15
+    First section: PART 437—EXPERIMENTAL PERMITS
+    Content: PART 437—EXPERIMENTAL PERMITS Authority: 51 U.S.C. 50901-50923. Source: Docket No. FAA-2006-24197, 72 FR 17019, Apr. 6, 2007, unless otherwise noted. Subpart A—General Information
+  [cfr-90a8c42d] 14 CFR Part 1215 — PART 1215—TRACKING AND DATA RELAY SATELLITE SYSTEM (TDRSS)
+    Sections: § 1215.100, § 1215.101, § 1215.102, § 1215.103, § 1215.104, § 1215.105, § 1215.106, § 1215.107
+    First section: PART 1215—TRACKING AND DATA RELAY SATELLITE SYSTEM (TDRSS)
+    Content: PART 1215—TRACKING AND DATA RELAY SATELLITE SYSTEM (TDRSS) Authority: Sec. 203, Pub. L. 85-568, 72 Stat. 429, as amended; 42 U.S.C. 2473. Source: 48 FR 9845, Mar. 9, 1983, unless otherwise noted. Subpart 1215.1—Use and Reimbursement Policy for Non-U.S. Government Users
+  [cfr-44b6a7d2] 14 CFR Part 1213 — PART 1213—RELEASE OF INFORMATION TO NEWS AND INFORMATION MEDI
+    Sections: § 1213.100, § 1213.101, § 1213.102, § 1213.103, § 1213.104, § 1213.105, § 1213.106, § 1213.107
+    First section: PART 1213—RELEASE OF INFORMATION TO NEWS AND INFORMATION MEDIA
+    Content: PART 1213—RELEASE OF INFORMATION TO NEWS AND INFORMATION MEDIA Authority: 42 U.S.C. 2473(a)(3). Source: 71 FR 49989, Aug. 24, 2006, unless otherwise noted.
+  [cfr-d450d94c] 14 CFR Part 1217 — PART 1217—DUTY-FREE ENTRY OF SPACE ARTICLES
+    Sections: § 1217.100, § 1217.101, § 1217.102, § 1217.103, § 1217.104, § 1217.105, § 1217.106
+    First section: PART 1217—DUTY-FREE ENTRY OF SPACE ARTICLES
+    Content: PART 1217—DUTY-FREE ENTRY OF SPACE ARTICLES Authority: 51 U.S.C. 20113; Proclamation No. 6780 of March 23, 1995, 60 FR 15845. Source: 62 FR 6467, Feb. 12, 1997, unless otherwise noted.
+
+────────────────────────────────────────────────────────────
+FAA_AD — 347 documents
+────────────────────────────────────────────────────────────
+Unique AD numbers found: 83
+Sample ADs: AD 2023-08-04, AD 2019-20-07, AD 2024-01-01, AD 2016-14-04, AD 2020-26-08, AD 2022-15-06, AD 2018-26-03, AD 2024-19-14, AD 2024-15-03, AD 2012-07-06, AD 2020-03-20, AD 2019-16-05, AD 2021-02-13, AD 2023-09-04, AD 2017-19-26
+
+SAMPLE AD DOCS (full content):
+
+  [ad-2d304546b] Airworthiness Directives; The Boeing Company Airplanes
+  Aircraft: 787
+  Content: Title: Airworthiness Directives; The Boeing Company Airplanes  Abstract: The FAA is superseding Airworthiness Directive (AD) 2023-08- 04, which applied to certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. AD 2023-08-04 required a detailed visual inspection of all door 1 and door 3 lavatory and galley potable water systems for any missing or incorrectly installed clamshell coupli
+
+  [ad-ef13ee253] Airworthiness Directives; The Boeing Company Airplanes
+  Aircraft: 787
+  Content: Title: Airworthiness Directives; The Boeing Company Airplanes  Abstract: The FAA proposes to adopt a new airworthiness directive (AD) for all The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This proposed AD was prompted by reports of fatigue cracks found on the thrust reverser (TR) outer V-blade (OVB) during scheduled maintenance and inspections. This proposed AD would require repetit
+
+  [ad-66990a31d] Airworthiness Directives; The Boeing Company Airplanes
+  Aircraft: 787
+  Content: Title: Airworthiness Directives; The Boeing Company Airplanes  Abstract: The FAA proposes to supersede Airworthiness Directive (AD) 2019-20-07, which applies to all The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. AD 2019-20-07 requires repetitive operational checks of the leading edge (LE) outboard (OB) slats and applicable on- condition actions. AD 2019-20-07 also requires revising t
+
+  [ad-281b05370] Airworthiness Directives; The Boeing Company Airplanes
+  Aircraft: 787
+  Content: Title: Airworthiness Directives; The Boeing Company Airplanes  Abstract: The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This proposed AD was prompted by a Boeing investigation for manufacturing errors and excessive preload forces at the lower side of body (SOB) splice plates common to the lower outboard wing ski
+
+  [ad-6fd835288] Airworthiness Directives; The Boeing Company Airplanes
+  Aircraft: 787
+  Content: Title: Airworthiness Directives; The Boeing Company Airplanes  Abstract: The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This AD was prompted by a report of multiple instances of loss of transponder for airplanes entering airspace in the presence of continuous wave (CW) interference where the transponder did not meet t
+
+────────────────────────────────────────────────────────────
+FAA_AC — 27 documents
+────────────────────────────────────────────────────────────
+
+  [ac-36855e8e5] Requirements for Interference-Tolerant Radio Altimeter Systems
+  Chars: 1,982
+  Excerpt: Title: Requirements for Interference-Tolerant Radio Altimeter Systems  Abstract: In July 2025, President Trump signed the One Big Beautiful Bill Act. Section 40002 of that law re-institutes the Federal Communications Commission's general auction authority and specifically directs the Commission to complete a system of competitive bidding for not less than 100 megahertz in the 3.98-4.2 gigahertz ba
+
+  [ac-c53b7fee6] Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Oper
+  Chars: 1,021
+  Excerpt: Title: Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations  Abstract: This action proposes performance-based regulations to enable the design and operation of unmanned aircraft systems (UAS) at low altitudes beyond visual line of sight (BVLOS) and for third-party services, including UAS Traffic Management (UTM), that support these operations. The FAA Reauthorization Act of
+
+  [ac-a5bae13d3] Modernization of Special Airworthiness Certification
+  Chars: 840
+  Excerpt: Title: Modernization of Special Airworthiness Certification  Abstract: FAA is amending rules for the manufacture, certification, operation, maintenance, and alteration of light-sport aircraft. The amendments enable enhancements in safety and performance and increase privileges under a number of sport pilot and light-sport aircraft rules. These enhancements include increasing suitability for flight
+
+  [ac-68e2dea2f] Drug and Alcohol Testing of Certificated Repair Station Employees Loca
+  Chars: 1,156
+  Excerpt: Title: Drug and Alcohol Testing of Certificated Repair Station Employees Located Outside of the United States  Abstract: This final rule requires certificated repair stations located outside the territory of the United States (U.S.) whose employees perform safety-sensitive maintenance functions on certain air carrier aircraft to conduct alcohol and controlled substance testing in a manner acceptab
+
+  [ac-9dd6d8224] Integration of Powered-Lift: Pilot Certification and Operations; Misce
+  Chars: 1,363
+  Excerpt: Title: Integration of Powered-Lift: Pilot Certification and Operations; Miscellaneous Amendments Related to Rotorcraft and Airplanes  Abstract: This final rule adopts permanent amendments and a Special Federal Aviation Regulation (SFAR) for a period of ten years to: facilitate the certification of powered-lift pilots, clarify operating rules applicable to operations involving a powered-lift, and f
+
+  [ac-6d2bdf7a7] Public Aircraft Logging of Flight Time, Training in Certain Aircraft H
+  Chars: 1,415
+  Excerpt: Title: Public Aircraft Logging of Flight Time, Training in Certain Aircraft Holding Special Airworthiness Certificates, and Flight Instructor Privileges  Abstract: As directed by the FAA Reauthorization Act of 2018, the FAA will allow pilots conducting public aircraft operations to credit their flight time towards FAA civil regulatory requirements. Additionally, consistent with the James M. Inhofe
+
+  [ac-5a1c7f68e] Removal of Expiration Date on a Flight Instructor Certificate; Additio
+  Chars: 931
+  Excerpt: Title: Removal of Expiration Date on a Flight Instructor Certificate; Additional Qualification Requirements To Train Initial Flight Instructor Applicants; and Other Provisions  Abstract: This action removes the expiration date on flight instructor certificates to align with other airman certificates. Additional amendments include updating renewal requirements to recent experience requirements, int
+
+  [ac-19bf4761a] Safety Management Systems
+  Chars: 1,037
+  Excerpt: Title: Safety Management Systems  Abstract: The FAA is updating requirements for safety management systems and requiring certain certificate holders and commercial air tour operators to develop and implement a safety management system (SMS). This rule extends the requirement for an SMS to all certificate holders operating under the rules for commuter and on-demand operations, commercial air tour o
+
+  [AC 120-76] FAA AC 120-76D — Authorization of Electronic Flight Bags (EFB)
+  Chars: 88,546
+  Key headings: 1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This Flight Standards Service; 1.1 EFB Program. Operators seeking authorization under part 91K, 121, 125, or 135 wil; 1.2 Requirements. This AC describes an acceptable means, but not the only means, for; 2 AUDIENCE. This AC should be used by system designers, installers, and operators; 3 WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA’s website at
+  Sections cited: § 43.3, § 91.21, § 121.306, § 125.204, § 135.144
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Authorization for Use of Electronic Date: 10/27/17 AC No: 120-76D Flight Bags Initiated by: AFS-400 Change: 1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This Flight Standards Service AC contains guidance on the operational use of Electronic Flight Bags (EFB). It is intended for all operators conducting flight
+
+  [AC 120-42] FAA AC 120-42B — Extended Operations (ETOPS) and Polar Operations
+  Chars: 193,781
+  Key headings: 100. Applicability 1; 101. Cancellations 1; 102. Related Regulations 1; 200. ETOPS Regulatory Requirements 3; 201. Evolution of ETOPS 3
+  Sections cited: §121.161, § 121.7, § 121.161, § 21.4, § 25.1535
+  Excerpt: SL--. Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Extended Operations (ETOPS and Date: 6/13/08 AC No: 120-42B Polar Operations) Initiated by: AFS-220 Change: FOREWORD This advisory circular (AC) provides certificate holders with guidance for obtaining operational approval to conduct Extended Operations (ETOPS) under Title 14 of the Code of Federal R
+
+  [AC 120-51] FAA AC 120-51E — Crew Resource Management Training
+  Chars: 65,188
+  Key headings: 1. PURPOSE. This Advisory Circular (AC) presents guidelines for developing, implemen; 2. CANCELLATION. AC 120-51D, Crew Resource Management Training, dated 2/8/01, is; 3. PRINCIPAL CHANGES. Operators of fractional ownership programs under part 91, subp; 4. RELATED REGULATIONS (Title 14 of the Code of Federal Regulations). Part 91,; 5. DEFINITIONS. The human factors safety challenge and the CRM training response may
+  Excerpt: Subject: CREW RESOURCE MANAGEMENT Date: 1/22/04 AC No: 120-51E TRAINING Initiated By: AFS-210 Change: 1. PURPOSE. This Advisory Circular (AC) presents guidelines for developing, implementing, reinforcing, and assessing crew resource management (CRM) training for flight crewmembers and other personnel essential to flight safety. CRM training is designed to become an integral part of training and op
+
+  [AC 120-71] FAA AC 120-71B — Standard Operating Procedures and Checklists for Comm
+  Chars: 81,937
+  Key headings: 1.1 General .........................................................................; 1.2 Cancellation ....................................................................; 1.3 Summary of Changes ..............................................................; 1.4 Terms and Definitions ...........................................................; 1.5 Related 14 CFR Sections .........................................................
+  Sections cited: § 91.1033, § 121.133, § 125.287, § 135.83
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Standard Operating Procedures and Date: 1/10/17 AC No: 120-71B Pilot Monitoring Duties for Flight Deck Initiated by: AFS-200 Change: Crewmembers This advisory circular (AC) provides guidance for the design, development, implementation, evaluation, and updating of standard operating procedures (SOP), and fo
+
+  [AC 120-92] FAA AC 120-92B — Safety Management Systems for Aviation Service Provid
+  Chars: 169,660
+  Key headings: 1 ICAO Safety Management standards require operators of airplanes over 27,000 kg to; 2 While the concepts discussed in this section underlie the requirements of part 5,
+  Sections cited: § 5.1, § 830.2, § 5.3, § 5.21, § 5.27
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Safety Management Systems for Date: 1/8/15 AC No: 120-92B Aviation Service Providers Initiated by: AFS-900 Change: This advisory circular (AC) provides information for Title 14 of the Code of Federal Regulations (14 CFR) part 121 air carriers that are required to implement Safety Management Systems (SMS) b
+
+  [AC 120-109] FAA AC 120-109A — Stall Prevention and Recovery Training
+  Chars: 97,605
+  Sections cited: § 121.424, § 121.423, § 121.400, § 25.207, § 121.418
+  Excerpt: Advisory U.S. Department of Transportation Federal Aviation Circular Administration Subject: Stall Prevention and Recovery Date: 11/24/15 AC No: 120-109A Training Initiated by: AFS-200 Change: This advisory circular (AC) provides guidance for training, testing, and checking pilots to ensure correct responses to impending and full stalls. For air carriers, Title 14 of the Code of Federal Regulation
+
+  [AC 120-118] FAA AC 120-118 — Criteria for Approval of All Weather Operations — CAT
+  Chars: 358,432
+  Sections cited: § 91.189, § 61.66, § 91.176, § 23.2510, § 25.1309
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Criteria for Approval/Authorization of Date: 7/2/18 AC No: 120-118 All Weather Operations (AWO) for Initiated by: AFS-400 Change: Takeoff, Landing, and Rollout This advisory circular (AC) provides an acceptable means, but not the only means, for obtaining and maintaining authorization of operations in Cate
+
+  [AC 120-16] FAA AC 120-16G — Air Carrier Maintenance Programs
+  Chars: 137,225
+  Key headings: 49 U.S.C. § 40102 as “foreign air commerce, interstate air commerce, the transportat
+  Sections cited: § 1.1, § 121.367, § 135.425, § 135.411, § 119.5
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Air Carrier Maintenance Programs Date: 1/4/16 AC No: 120-16G Initiated by: AFS-300 Change: This advisory circular (AC) explains what the term “maintenance program” means. Our explanation describes the scope and content of air carrier aircraft maintenance programs. This is important as there is a significan
+
+  [AC 43.13-1] FAA AC 43.13-1B — Acceptable Methods, Techniques, and Practices — Airc
+  Chars: 1,569,214
+  Key headings: 1. PURPOSE. This advisory circular (AC) contains methods, techniques, and practices; 2. CANCELLATION. The AC 43.13-1A dated 1988 is canceled.; 3. REFERENCE: Title 14 of the Code of Federal Regulations part 43, section 43.13(a); 4. ACKNOWLEDGMENTS. The FAA would like to thank the following persons and organizati; 5. COMMENTS INVITED. Comments regarding this AC should be directed to DOT/FAA;
+  Excerpt: Advisory Circular TITLE 14 OF THE CODE OF FEDERAL REGULATIONS (14 CFR) GUIDANCE MATERIAL Subject: ACCEPTABLE METHODS, Date: 9/8/98 AC No: 43.13-1B TECHNIQUES, AND PRACTICESAIRCRAFT Initiated by: AFS-640 Change: 1 INSPECTION AND REPAIR 1. PURPOSE. This advisory circular (AC) contains methods, techniques, and practices acceptable to the Administrator for the inspection and repair of nonpressuriz
+
+  [AC 43.13-2] FAA AC 43.13-2B — Acceptable Methods, Techniques, and Practices — Airc
+  Chars: 271,836
+  Key headings: 1. PURPOSE. This advisory circular (AC) contains methods, techniques, and practices; 2. CANCELLATION. AC 43.13-2A, Acceptable Methods, Techniques, and Practices―; 3. REFERENCE. Title 14 of the Code of Federal Regulations (14 CFR) part 43, § 43.13(; 4. COMMENTS INVITED. Comments regarding this AC should be directed to DOT/FAA:; 100. GENERAL. Structural integrity is a major brings these parts together has to carry
+  Sections cited: § 43.13, § 43.16, § 23.303, § 23.621
+  Excerpt: Advisory U.S. Department of Transportation Federal Aviation Circular Administration Subject: Acceptable Methods, Date: 3/3/08 AC No: 43.13-2B Techniques, and Practices – Aircraft Initiated by: AFS-300 Alterations 1. PURPOSE. This advisory circular (AC) contains methods, techniques, and practices acceptable to the Administrator for the inspection and alteration on non-pressurized areas of civil air
+
+  [AC 39-7] FAA AC 39-7D — Airworthiness Directives — Compliance Guidance
+  Chars: 19,565
+  Key headings: 1. PURPOSE. This advisory circular (AC) provides guidance and information to owners; 2. CANCELLATION. This AC cancels AC 39-7C, ADs, dated November 16, 1995.; 3. RELATED REGULATIONS. Title 14 of the Code of Federal Regulations (14 CFR):; 4. RELATED READING MATERIAL (current editions).; 5. BACKGROUND. The authority for the role of the Federal Aviation Administration (FA
+  Sections cited: § 135.411, § 135.419, § 21.199, § 39.19, § 43.15
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Airworthiness Directives Date: 3/2/12 AC No: 39-7D Initiated by: AFS-300 Change: 1. PURPOSE. This advisory circular (AC) provides guidance and information to owners and operators of aircraft concerning their responsibility for complying with Airworthiness Directives (AD) and recording AD compliance in the 
+
+  [AC 25.1309-1] FAA AC 25.1309-1A — System Design and Analysis — Transport Category Ai
+  Chars: 47,896
+  Key headings: 0 Advisory; 1. PURPOSE. This Advisory Circular (AC) describes various dCCeptable means; 2. CANCELLATION. AC 25.1309-1 dated 9/7/82, is hereby cancel led.; 3. APPLICABILITY. Section 25.13U9(b) provides yeneral requirements for a; 4. BACKGROUNO. The Part 25 airworthiness standards are based on the fail-safe
+  Sections cited: § 25.1309, § 25.207, § 25.13U
+  Excerpt: 0 Advisory U.S. Deportment Circular of Transportation Federal Aviation Administration Subject: SYSTEM DESIGN AND ANALYSIS Date: 1'5/21/88 AC No: 25 .1309-lA Initiated by: ANM-110 Olanae: 1. PURPOSE. This Advisory Circular (AC) describes various dCCeptable means for showiny compliance with the requirements of~ 25.1309(b), (c), and (d) of the Federal Aviation Regulations (FAR). These means are inten
+
+  [AC 120-53] FAA AC 120-53C — Qualification of Flight Simulators and Flight Trainin
+  Chars: 150,036
+  Key headings: 1.1 Purpose of This Advisory Circular (AC) ..........................................; 1.2 Audience ........................................................................; 1.3 Where You Can Find This AC.......................................................; 1.4 What This AC Cancels.............................................................; 1.5 Related 14 CFR Parts ............................................................
+  Sections cited: § 61.31, § 61.63, § 91.1097, § 1.1, § 121.434
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Flight Standardization Board Date: 9/11/25 AC No: 120-53C Evaluations Initiated by: AFS-100 Change: This advisory circular (AC) provides guidance to those persons applying for a Flight Standardization Board (FSB) to have new or modified aircraft types and models evaluated for the purpose of determining min
+
+  [AC 121-43] FAA AC 121-43 — Qualification, Service, and Use of Crewmembers and Air
+  Chars: 12,542
+  Key headings: 1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC presents guidelines for; 2 AUDIENCE. The primary audience for this AC is air carrier, operator, and program; 3 WHERE YOU CAN FIND THIS AC. You can find this AC on the Federal Aviation; 4 RELATED REGULATIONS. The following 14 CFR sections may be found at; 5 RELATED REFERENCES.
+  Sections cited: § 121.419, § 121.429, § 121.401, § 91.1027, § 121.683
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Mentoring Training for Pilots in Date: 3/3/20 AC No: 121-43 Command Initiated by: AFS-200 Change: 1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC presents guidelines for developing and implementing mentoring training for pilots in command (PIC). These guidelines apply to air carriers, operators, and prog
+
+  [AC 91-74] FAA AC 91-74B — Pilot Guide — Flight in Icing Conditions
+  Chars: 151,413
+  Sections cited: § 91.13, § 121.341, § 125.221, § 135.227
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Pilot Guide: Flight in Icing Conditions Date:10/8/15 AC No: 91-74B Initiated by: AFS-800 Change: This advisory circular (AC) contains updated and additional information for the pilots of airplanes under Title 14 of the Code of Federal Regulations (14 CFR) parts 91, 121, 125, and 135. The purpose of this AC
+
+  [AC 91-67] FAA AC 91-67 — Minimum Equipment Requirements for General Aviation Ope
+  Chars: 78,494
+  Key headings: 1. PURPOSE. This advisory circular (AC) in accordancew ith FAR Parts 91, 123, and 12; 4. RELATED READING MATERIAL.; 2. RELATED FAR SECTIONS. The Users of this AC will find detailed background; 5. BACKGROUND. Except as provided in (2) Further,g enerala viationo perators; 6. DEFINITIONS.
+  Sections cited: §91.213, § 91.213
+  Excerpt: Advisory .F’ w U.S. Department of Circular Transportation Federal Aviation Administration Subject: MINIMUM EQUIPMENT REQUIREMENTS Date: 6/28/91 AC No: 91-67 FOR GENERAL AVIATION OPERATIONS Initiated by: AFS-820 UNDER FAR PART 91 1. PURPOSE. This advisory circular (AC) in accordancew ith FAR Parts 91, 123, and 125 describesa cceptablem ethodsf or the operationo f and FAR 56 135411(a)(l) and 135.419
+
+  [AC 90-105] FAA AC 90-105A — Approval Guidance for RNP Operations and Barometric V
+  Chars: 308,158
+  Key headings: 1.1 Purpose .........................................................................; 1.2 Alternative Method ..............................................................; 1.3 AC Feedback Form ................................................................; 2.1 Audience ........................................................................; 2.2 Approach Guidance Not Applicable to This AC .....................................
+  Sections cited: § 71.31, § 91.123, § 97.20, § 121.349, § 125.203
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Approval Guidance for RNP Date: 3/7/16 AC No: 90-105A Operations and Barometric Vertical Initiated by: AFS-400 Change: Navigation in the U.S. National Airspace System and in Oceanic and Remote Continental Airspace This advisory circular (AC) provides guidance for operators to conduct Required Navigation Pe
+
+  [AC 120-85] FAA AC 120-85A — Air Cargo Operations
+  Chars: 186,606
+  Key headings: 1.1.1 Purpose .........................................................................; 1.1.2 Audience ........................................................................; 1.1.3 Background ......................................................................; 1.1.4 Document Organizations ..........................................................; 1.1.5 Where You Can Find this AC ......................................................
+  Sections cited: § 21.41, § 91.9, § 25.1583, § 121.137, § 121.583
+  Excerpt: Advisory U.S. Department of Transportation Circular Federal Aviation Administration Subject: Air Cargo Operations Date: 6/25/15 AC No: 120-85A Initiated by: AFS-300 Change: This Flight Standards Service (AFS) advisory circular (AC) contains guidance on cargo loading. It is intended for air operators, Original Equipment Manufacturers (OEM), Supplemental Type Certificate (STC) holders, Parts Manufac
+
+  [AC 117-1] FAA AC 117-1 — Flightcrew Member Duty and Rest Requirements
+  Chars: 23,367
+  Key headings: 1. PURPOSE. This advisory circular (AC) describes an acceptable means, but not the o; 2. PRINCIPAL CHANGES. This change incorporated new information into paragraph 5 to; 2. DISCUSSION. This AC references criteria that may be used for the design and insta; 3. RELATED 14 CFR PARTS.; 4. DEFINITIONS. For purposes of this document, these terms are defined as follows:
+  Sections cited: § 117.3, §25.789, § 121.285, § 121.311
+  Excerpt: e Advisory U.S. Department of Transportation Federal Aviation Circular Administration Subject: Flightcrew Member Rest Facilities Date: 8/21/13 AC No: 117-1 Initiated by: AFS-200 Change: 1 1. PURPOSE. This advisory circular (AC) describes an acceptable means, but not the only means, of compliance with Title 14 of the Code of Federal Regulations (14 CFR) part 117 conducting augmented flightcrew memb
+
+────────────────────────────────────────────────────────────
+DGCA_CAR — 6 documents
+────────────────────────────────────────────────────────────
+
+  [dgca-2a7204c] DGCA CAR Section 7 Series J Part III — Flight Duty Time Limitations (FDTL) — Fli
+  Chars: 35,236
+  Sections: 1. INTRODUCTION, 2. APPLICABILITY, 3. DEFINITIONS, 8. MAXIMUM CUMULATIVE FLIGHT TIME AND DUTY PERIOD LIMITATIONS, 9. SPLIT DUTY, 10. MINIMUM REST PERIODS
+  Full content (first 1500 chars):
+  GOVERNMENT OF INDIA OFFICE OF THE DIRECTOR GENERAL OF CIVIL AVIATION TECHNICAL CENTRE, OPP SAFDURJUNG AIRPORT, NEW DELHI CIVIL AVIATION REQUIREMENT SECTION 7 – FLIGHT CREW STANDARDS TRAINING AND LICENSING SERIES J PART III ISSUE III, Dated 24th APRIL 2019 EFFECTIVE: FORTHWITH File No. DGCA-22024/12/2022-FSD Subject: Duty Period, Flight Duty Period, Flight Time Limitations and Prescribed Rest Periods – Flight crew Engaged in Scheduled Air Transport Operations. 1. INTRODUCTION 1.1 The ICAO Annex 6, Part 1, requires that the State of the operator shall establish regulations for the purpose of managing fatigue. Accordingly, the State shall establish prescriptive regulations for Flight Time, Flight Duty Period, Duty Period and Rest Period Limitations and, if authorizing the operator to use a Fatigue Risk Management System (FRMS) to manage fatigue, establish FRMS Regulations. This CAR lays down the prescriptive fatigue management regulations. The Operator, for the purpose of managing its fatigue related safety risks, is required to establish flight time, flight duty periods, duty period and rest period limitations that are within the prescriptive fatigue management regulations established by this CAR. 1.2 In order to enhance safety of aircraft operations and in exercise of powers conferred under Rule 42A of the Aircraft Rules, 1937, read with Rule 133A of Aircraft Rules, 1937, the following Flight Time, Flight Duty Period, Duty Period and Rest Period Limitations for Flight Crew are
+
+  [dgca-8b3acd3] DGCA CAR Section 3 Series M Part VI — Air Transport Series M — Passenger Rights 
+  Chars: 13,691
+  Sections: 1. INTRODUCTION, 2. APPLICABILITY, 3. DEFINITIONS, 4. REQUIREMENTS FOR DEALING WITH UNRULY PASSENGERS, 5. TRAINING, 6. REPORTING AND HANDLING OF UNRULY PASSENGERS ON BOARD THE
+  Full content (first 1500 chars):
+  GOVERNMENT OF INDIA OFFICE OF THE DIRECTOR GENERAL OF CIVIL AVIATION TECHNICAL CENTRE, OPPOSITE SAFDARJUNG AIRPORT, NEW DELHI – 11 0 003 CIVIL AVIATION REQUIREMENTS SECTION 3 – AIR TRANSPORT SERIES M PART VI ISSUE II, 8TH SEPTEMBER, 2017 EFFECTIVE: FORTHWITH F. No. 23-14/2014-AED Subject: Handling of unruly passengers. 1. INTRODUCTION 1.1 Unlawful/disruptive behaviour on board the aircraft may interfere with the performance of duties of the crew members or hamper the ability of the crew members to perform those duties or jeopardize the safety of the aircraft/persons/property on board/good order & discipline on board, cause discomfort to other passengers & crew members and may invite penal action in accordance with applicable regulations. In such a situation, passengers are expected to abide by law of the land and utilise the means and resources for grievance redressal as specified by the Government. 1.2 Even if the passenger feels that the redressal system has limitations, unlawful/disruptive action is certainly not a solution. 1.3 Unruly behaviour on-board aircraft has been declared as an offence and is a punishable act. Although unruly passengers represent only a miniscule proportion of passengers as a whole, even one unruly passenger can jeopardise safety on board. Unruly passengers affect all personnel involved in the process connected with a flight operation, ultimately affecting the operation of the flight itself. 1.4 This CAR is issued under the provisions of Rule 22, 
+
+  [dgca-8e19b56] DGCA CAR Section 3 Series C Part I — Requirements for Scheduled Air Transport Op
+  Chars: 12,772
+  Sections: 1. Introduction, 2. Purpose, 3. Applicability:, 4. Guidelines as per Phase of Flight:, 5. Communication, 6. Flight Crew experience
+  Full content (first 1500 chars):
+  GOVERNMENT OF INDIA DIRECTORATE GENERAL OF CIVIL AVIATION OPP. SAFDARJUNG AIRPORT, NEW DELHI OPERATIONS CIRCULAR 04 OF 2023 File No: DGCA-2203/37/2023-FSD Dated: 12 June 2025 Subject: Monsoon Operations 1. Introduction Flight operations during Pre-monsoon and Monsoon season present serious hazards to the safety of flight operations. Heavy rainfall, enroute icing, moving cloud, severe turbulence, strong gusty winds, severe thunderstorms, and lightning inside the clouds etc. are some of the challenging scenarios that a pilot has to contend with while flying during a monsoon. 2. Purpose This circular is being issued to operators and all aviators to re-iterate existing guidelines including safety measures on adverse weather operations to avoid any incident. 3. Applicability: This circular is applicable to all operators/pilots. 4. Guidelines as per Phase of Flight: 4.1 Pre-Flight 4.1.1 Crew Briefing whether self-briefed or by a dispatcher should cover Aircraft status, especially MEL and its impact on monsoon operations. Latest Departure, enroute, Destination and alternate weather should be provided to the crew and changes to enroute, destination and alternate weather should be transmitted to crew whenever there is a significant deterioration post pre-flight briefing stage. The crew should also endeavor to keep themselves updated with required weather information from all available sources. R evision 01 Date 12 June, 2025 1  4.1.2 Fuel uplift calculation should be done judiciously,
+
+  [dgca-e9bd251] DGCA CAR Section 5 Series F Part III — Breath-Analyzer Examination — Alcohol Tes
+  Chars: 28,928
+  Sections: 1. INTRODUCTION, 2. DEFINITIONS, 3. APPLICABILITY, 4. SAFETY REGULATIONS, 5. EQUIPMENT USAGE AND CALIBRATION PROCEDURE, 6. PROCEDURE FOR PRE-FLIGHT AND POST-FLIGHT BREATH-ANALYZER
+  Full content (first 1500 chars):
+  GOVERNMENT OF INDIA OFFICE OF THE DIRECTOR GENERAL OF CIVIL AVIATION TECHNICAL CENTRE, OPP SAFDURJUNG AIRPORT, NEW DELHI CIVIL AVIATION REQUIREMENTS SECTION 5 - AIR SAFETY SERIES F PART III ISSUE III, 4TH AUGUST 2015 EFFECTIVE: FORTHWITH F. No. AV 15011/21/2010-AS SUBJECT: Procedure for medical examination of aircraft personnel for alcohol consumption 1. INTRODUCTION 1.1 It is a well-known fact that even when the blood alcohol levels are zero in the body, there could be some effect of hangover, which is mainly due to congeners. These congeners may take 15 to 18 hours to get dissipated and may produce ill effects for up to 36 hours depending upon the amount of alcohol consumed. Even 12 hours after a bout of drink, when blood alcohol level remains zero, there is decrement in task performance. Alcohol present in body even in small quantities jeopardises flight safety on several counts and is likely to adversely affect an aviator well into the hangover period. 1.2 Alcohol also interferes with the enzymatic cellular process or oxidation, causes hypoxia and reduces individual’s tolerance with increase in altitude. It is known that a low alcohol blood level between 30 mg% to 50 mg% disturbs the sensor-motor, visual and cortical reaction. Consumption of alcohol results in significant deterioration of psychomotor performance and decreases the amount of mental capacity available to deal with many essential tasks involved in the conduct of safe flight. Should an emergency occur in-fligh
+
+  [dgca-fd842b9] DGCA CAR Section 7 Series J Part I — Flight Duty Time Limitations (FDTL) — Cabin
+  Chars: 32,938
+  Sections: 1. INTRODUCTION, 8. MAXIMUM CUMULATIVE FLIGHT TIME LIMITATIONS, 1. Less than 3 hours Nil, 13. ULTRA LONG RANGE (ULR)
+  Full content (first 1500 chars):
+  GOVERNMENT OF INDIA OFFICE OF THE DIRECTOR GENERAL OF CIVIL AVIATION TECHNICAL CENTRE, OPP SAFDURJUNG AIRPORT, NEW DELHI CIVIL AVIATION REQUIREMENT SECTION 7 CABIN CREW STANDARDS TRAINING AND LICENSING SERIES‘J’ PART I Issue V Dated ------------ Effective: ------------------ File No. DGCA-22040/11/2023-FSD Comp. No. : E 237340 Subject: Flight Duty Time and Flight Time Limitations – Cabin Crew 1. INTRODUCTION 1.1 The Annex 6, Operation of Aircraft, Part I, to the Convention on International Civil Aviation, requires Contracting States to establish regulations specifying the limits applicable to Flight Time, Flight Duty Period, Duty Period and Rest Period for Cabin Crew. Accordingly, the State shall establish prescriptive regulations for Flight Time, Flight Duty Period, Duty Period and Rest Period Limitations and, if authorizing the operator to use a Fatigue Risk Management System (FRMS) to manage fatigue, establish FRMS Regulations. This CAR lays down the prescriptive fatigue management regulations. The Operator, for the purpose of managing its fatigue related safety risks, is required to establish flight time, flight duty periods, duty period and rest period limitations that are within the prescriptive fatigue management regulations established by this CAR. 1.2 Cabin Crew member are crew who perform duties in the interest of safety of passengers, duties assigned by the operator and the pilot-in- command of the aircraft but who shall not act as flight crew member. 1.3 In order 
+
+  [dgca-8920fc7] DGCA CAR Section 7 Series H Part I — Maintenance Training Organisation (CAR-147)
+  Chars: 82,518
+  Sections: 147. A.05 Scope, 147. A. 10 General, 147. A.15 Application, 147. A.100 Facility Requirements, 147. A.105 Personal Requirements, 147. A.110 Records of instructors, examiners and assessors
+  Full content (first 1500 chars):
+  CAR 147 (Basic) GOVERNMENT OF INDIA DIRECTORATE GENERAL OF CIVIL AVIATION OPP. SAFDARJUNG AIRPORT, NEW DELHI - 110 003 CAR 147 APPROVED BASIC MAINTENANCE TRAINING ORGANISATION Issue 1, Revision 0 27.12.2017 Issue 1, Rev 0 dated 27.12.2017 1  CAR 147 (Basic) INDEX SECTION A - TECHNICAL REQUIRMENTS SUBPART A GENERAL 147.A. 01 Applicability 147. A.05 Scope 147. A. 10 General GM to 147.A.10 General 147. A.15 Application AMC147.A.15 Application SUBPART B - ORGANISATIONAL REQUIRMENTS 147. A.100 Facility Requirements AMC 147.A.100 (i) Facility requirements GM to147.A.100 (i) Facility Requirements 147. A.105 Personal Requirements AMC 147.A.105 Personnel requirements AMC 147.A.105 (b) Personnel requirements GM to 147.A.105 (b) Personnel requirements GM to 147.A.105 (c) Personnel requirements AMC 147.A.105 (f) Personnel requirements GM to 147.A.105(f) Personnel requirements GM to 147.A.105 (g) Personnel requirements AMC 147.A.105 (h) Personnel requirements GM to 147.A.105 (h) Personnel requirements 147. A.110 Records of instructors, examiners and assessors AMC 147.A.110 Records of instructors, examiners and assessors GM to 147.A.110 Records of instructors, examiners and assessors Issue 1, Rev 0 dated 27.12.2017 2  SECTION A - TECHNICAL REQUIRMENTS |  |  SUBPART A GENERAL |  |  147.A. 01 | Applicability |  147. A.05 | Scope |  147. A. 10 | General |  GM to 147.A.10 | General |  147. A.15 | Application |  AMC147.A.15 | Application |  SUBPART B - ORGANISATIONAL REQUIRMENTS |  |  147. A.10
+
+────────────────────────────────────────────────────────────
+SKYBRARY — 20 documents
+────────────────────────────────────────────────────────────
+
+  [sky-d5b855e0] SKYbrary — Loss of Control
+  Loss of Control (LOC)  Loss of control in flight (LOC-I) has been one of the most significant causes of fatal aircraft accidents for many years and is one of five global high-risk categories of occurrence identified by the International Civil Aviation Organization (ICAO).  Loss of control usually occurs because the aircraft enters a flight regime which is outside its normal envelope, usually, but not always at a high rate, thereby introducing an element of surprise for the flight crew involved.  The causes of in flight Loss of Control, whether transitory or terminal, are many and include: - Lo
+
+  [sky-66ea9387] SKYbrary — Controlled Flight Into Terrain (CFIT)
+  Controlled Flight Into Terrain (CFIT)  Controlled Flight into Terrain (CFIT) occurs when an airworthy aircraft under the complete control of the pilot is inadvertently flown into terrain, water, or an obstacle. The pilots are generally unaware of the danger until it is too late.  Most CFIT accidents occur in the approach and landing phase of flight and are often associated with non-precision approaches. Many CFIT accidents occur because of loss of situational awareness, particularly in the vertical plane, and many crash sites are on the centreline of an approach to an airfield.  Causal Factors
+
+  [sky-cca6bb09] SKYbrary — Runway Excursion
+  Runway Excursion  A runway excursion is an event in which an aircraft veers off or overruns the runway surface during takeoff or landing. Runway excursion is the most frequent accident type in aviation and represents one of the most serious risks in aviation.  According to IATA data, approximately 23% of accidents in IATA's global accident database from 2005 through mid-2019 involved runway excursion. The estimated direct cost of runway excursion events in 2019 was more than US$4 billion.  Types of Runway Excursion: - Overrun: Aircraft departs runway at the end - Veer-off: Aircraft departs run
+
+  [sky-434f55a0] SKYbrary — Runway Incursion
+  Runway Incursion  ICAO defines a Runway Incursion as: "Any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft."  Runway incursions remain one of the most serious safety hazards in aviation. A notable example occurred on 2 January 2024 when an Airbus A350-900 collided with a Bombardier DHC8-300 at Tokyo Haneda. The DHC8 had entered the runway for departure without clearance. Both aircraft caught fire. The DHC8 was destroyed and five of the six occupants died.  Catego
+
+  [sky-c98190cf] SKYbrary — Low Level Wind Shear
+  Low Level Wind Shear  Wind shear is defined as a change in wind speed and/or direction over a short distance. Low level wind shear (LLWS) is particularly hazardous to aircraft during approach and departure phases of flight when the aircraft is at low altitude, low speed, and has limited energy reserves.  Hazards: - Sudden changes in airspeed affecting lift and aircraft energy state - Risk of stall if airspeed decreases rapidly - Risk of runway excursion if airspeed increases suddenly on approach - Reduced terrain clearance in departure phase - High pilot workload during critical phases of flig
+
+  [sky-bdbf1f6e] SKYbrary — Go-Around Decision Making
+  Go-Around Decision Making  Central to effective go-around decision making is a comprehensive knowledge and understanding of situations, threats and circumstances that should, or may, require a go-around to be flown.  Key Statistics: - Between 3 and 4% of all approaches are reported/recorded as unstabilised - Only 3% of unstabilised approaches result in a go-around being flown - 97% of unstabilised approaches continue to a landing contrary to airline SOPs - Over 60% of go-arounds introduce increased risk - This increases to over 70% where pilots had a problem on approach  Situations Requiring G
+
+  [sky-2a344682] SKYbrary — Stabilised Approach
+  Stabilised Approach  A stabilised approach is a fundamental factor in reducing the occurrence of both hard landings and runway excursions.  Definition: Within their Operations Manual, most airlines define the criteria for a stabilised approach and mandate that the approach must be abandoned and a go-around executed if the stabilised criteria have not been achieved by a specified height above the touchdown zone elevation (TDZE).  Standard Gates: - 1000ft above TDZE in IMC (Instrument Meteorological Conditions) - 500ft above TDZE in VMC (Visual Meteorological Conditions) - Some operators use hig
+
+  [sky-ba4c2b6d] SKYbrary — Fatigue
+  Fatigue  Fatigue in aviation is recognized as a significant safety hazard. Mental fatigue concerns a general decrease of attention and ability to perform complex tasks with customary efficiency.  Types: - Physical fatigue: Inability to exert force with muscles to expected degree - Mental fatigue: General decrease of attention and ability to perform tasks - Cumulative fatigue: Build-up over time from insufficient recovery between duty periods  Causes Relevant to Aviation: - Loss or interruption of normal sleep pattern - Shift patterns and transit across time zones (circadian rhythm disruption) 
+
+  [sky-d943a2a0] SKYbrary — Crew Resource Management (CRM)
+  Crew Resource Management (CRM)  CRM can be defined as a management system which makes optimum use of all available resources — equipment, procedures and people — to promote safety and enhance the efficiency of flight operations.  CRM encompasses a wide range of knowledge, skills and attitudes including: - Communications - Situational Awareness - Problem solving - Decision making - Teamwork  History: The concept of CRM originated in the 1970s and was initially known as "cockpit resource management." As CRM training evolved to include flight attendants, maintenance personnel and others, the phra
+
+  [sky-06767597] SKYbrary — Situational Awareness
+  Situational Awareness  Situational Awareness (SA) is one of the key elements of Crew Resource Management (CRM). It is formally defined as: "The perception of the elements in the environment within a volume of time and space, the comprehension of their meaning, and the projection of their status in the near future."  Three Levels of Situational Awareness (Endsley Model): 1. Level 1 — Perception: Detection of relevant elements (what is happening?) 2. Level 2 — Comprehension: Understanding meaning of perceived elements (what does it mean?) 3. Level 3 — Projection: Predicting future states (what w
+
+  [sky-9b0bd0de] SKYbrary — Threat and Error Management (TEM)
+  Threat and Error Management (TEM)  Threat and Error Management (TEM) is a conceptual framework that assists in understanding the interaction between safety and human performance in dynamic operational environments.  Key Concepts: - Threats: Events or errors that occur outside the influence of the flight crew, that increase operational complexity and must be managed - Errors: Actions or inactions that lead to deviations from organizational or flight crew intentions or expectations - Undesired States: Operational conditions where an unintended situation results in a reduction in safety margins  
+
+  [sky-493df911] SKYbrary — Safety Management System (SMS)
+  Safety Management System (SMS)  A Safety Management System (SMS) is a systematic approach to managing safety, including the necessary organizational structures, accountabilities, policies and procedures.  ICAO requires all airlines, airports, and ANSPs to implement SMS under Annex 19.  Four Components of SMS (ICAO Framework): 1. Safety Policy and Objectives    - Management commitment and responsibility    - Safety accountabilities    - Appointment of key safety personnel    - SMS documentation  2. Safety Risk Management    - Hazard identification    - Safety risk assessment and mitigation    -
+
+  [sky-81fd0d26] SKYbrary — Airborne Collision Avoidance System (ACAS/TCAS)
+  Airborne Collision Avoidance System (ACAS/TCAS)  ACAS II (Traffic alert and Collision Avoidance System — TCAS II) is an aircraft safety net designed to reduce the risk of mid-air collisions between aircraft.  How it Works: TCAS II interrogates the Mode C and Mode S transponders of nearby aircraft ('intruders') and from the replies tracks their altitude, range, and bearing. It issues alerts to pilots: - Traffic Advisory (TA): Increases pilot awareness of potential threat - Resolution Advisory (RA): Provides specific vertical maneuver guidance  Critical Rule — Always Follow the RA: The most impo
+
+  [sky-f65be782] SKYbrary — Fire, Smoke and Fumes
+  Fire, Smoke and Fumes  In-flight fire is one of the most serious emergencies that can confront a flight crew. SKYbrary identifies in-flight fire as one of the main safety hazards in aviation.  Types of In-Flight Fire/Smoke: - Engine fire - APU fire - Cargo compartment fire - Cabin fire - Flight deck smoke/fumes - Electrical fire - Lavatory fire  Immediate Actions: At the first indication of smoke or fumes or a pressurisation problem or symptoms of hypoxia: - Flight crew should IMMEDIATELY don oxygen masks - Without supplemental oxygen at cruise altitude, Time of Useful Consciousness can be les
+
+  [sky-2976464b] SKYbrary — Aircraft Pressurisation Systems
+  Aircraft Pressurisation Systems  Aircraft pressurisation maintains a safe cabin altitude for crew and passengers when flying at high altitude where atmospheric pressure is insufficient to sustain life.  Normal Operations: - Commercial transport aircraft maintain cabin altitude typically between 6,000-8,000 feet - Boeing 787 Dreamliner uses composite fuselage allowing lower cabin altitude of ~6,000 feet - Pressurisation managed by outflow valve controlling rate of air leaving cabin - Differential pressure limit must not be exceeded  Loss of Pressurisation: Causes include: - Outflow valve malfun
+
+  [sky-281873ee] SKYbrary — Bird Strike
+  Bird Strike  Bird strike is defined as a collision between an airborne animal (typically a bird) and a manufactured vehicle, especially aircraft.  Impact on Aviation Safety: - Bird strikes can cause engine damage, windshield damage, or other structural damage - Engine ingestion can cause engine failure or reduced thrust - Windshield penetration can incapacitate crew - Damage to flight control surfaces  Risk Factors: - Low altitude flight (takeoff and landing phases) — highest risk period - Airport environments near water bodies, food sources, or bird habitats - Dawn and dusk migration periods 
+
+  [sky-7fb22bb6] SKYbrary — Fuel Management
+  Fuel Management  Proper fuel management is fundamental to flight safety. Running out of fuel or reaching minimum fuel state at a critical time has been a causal factor in numerous accidents.  Fuel Planning Requirements (standard components): - Trip fuel: Fuel required for planned route - Contingency fuel: Typically 5% of trip fuel (EU OPS) or calculated per operator - Alternate fuel: Fuel to fly to alternate airport - Final reserve fuel: 30 minutes at holding speed for jets - Additional fuel: As determined by commander - Extra fuel: At commander's discretion  Key Definitions: - Minimum Fuel: F
+
+  [sky-1cdf236c] SKYbrary — Engine Failure During Takeoff
+  Engine Failure During Takeoff  Engine failure during the takeoff roll is one of the most critical and time-pressured emergencies in commercial aviation. The flight crew must make a critical decision: Continue the takeoff (V1 decision) or Reject the Takeoff (RTO).  V1 — Takeoff Decision Speed: - V1 is the maximum speed at which a rejected takeoff can be initiated and the aircraft stopped within the remaining runway - Above V1: Takeoff must be continued even with engine failure - Below V1: Rejected Takeoff (RTO) should be initiated  Continued Takeoff After Engine Failure: - Apply full power on r
+
+  [sky-96c52a0f] SKYbrary — Upset Prevention and Recovery Training (UPRT)
+  Upset Prevention and Recovery Training (UPRT)  UPRT stands for Upset Prevention and Recovery Training. An airplane upset is generally defined as an unintended condition where the aircraft attitude or speed is outside parameters normally experienced in line operations.  Upset Parameters (typical definition): - Pitch attitude greater than 25° nose up - Pitch attitude greater than 10° nose down - Bank angle greater than 45° - Flight within the above parameters at speeds inappropriate for conditions  Why UPRT is Critical: Loss of control in flight (LOC-I) remains the leading cause of fatal acciden
+
+  [sky-fe966cb6] SKYbrary — Emergency Descent
+  Emergency Descent  An emergency descent is a maneuver performed to descend as rapidly as possible to a lower altitude, usually due to cabin pressurisation failure, fire, or medical emergency requiring lower altitude.  When to Initiate Emergency Descent: - Loss of pressurisation requiring descent to breathable altitude (typically 10,000 feet) - Smoke or fumes requiring lower altitude - Medical emergency requiring lower altitude for patient welfare - Engine fire requiring lower altitude  Time of Useful Consciousness at Altitude: Crew must act before incapacitation. At cruise altitude (FL370-FL41
+
+================================================================================
+END OF SUMMARY
+================================================================================
